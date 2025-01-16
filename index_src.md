@@ -108,5 +108,9 @@ This is where we are missing the most "scientific" foundations. An issue is mayb
 ## What to do?
 
 Most personal part, no particular references. Could be nice though.
+
+## Homepage logo
+
+Logo is a modified public domain picture from Linnaea Mallette.
   
 # References

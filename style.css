@@ -224,7 +224,7 @@ td, th {
 }
 
 .highlight .err {
-    color: #a61717;
+    color: #531f7f;
     background-color: #e3d2d2
 }
 
@@ -239,7 +239,7 @@ td, th {
 }
 
 .highlight .gr {
-    color: #aa0000
+    color: #531f7f
 }
 
 .highlight .gh {
@@ -479,7 +479,7 @@ body {
 }
 
 a {
-    color:#DC143C;
+    color:#531f7f;
     text-decoration: none
 }
 
@@ -548,7 +548,7 @@ a:hover {
 
 .page-header {
     color: #fff;
-    background-color: #6005ac;
+    background-color: #6005ac; /* ##930b21; */
     display: flex;
   justify-content: center;
   align-items:center;
@@ -712,7 +712,7 @@ a:hover {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color:#8B0000
+    color:#531f7f
 }
 
 .main-content p {
@@ -723,7 +723,7 @@ a:hover {
     padding: 2px 4px;
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
     font-size: 0.9rem;
-    color: #8B0000;
+    color: #531f7f;
     background-color: #f3f6fa;
     border-radius: 0.3rem
 }
