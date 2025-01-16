@@ -1,0 +1,3 @@
+[submodule "booklet"]
+	path = booklet
+	url = git@github.com:not-in-our-labs/booklet.git
