@@ -17,7 +17,7 @@
     @*
 ---
 
-# The booklet
+# The ideas behind the booklet
 
 Welcome to the home page of the "Hitchiker’s guide to the PhD". Let's start with a good news:
 
