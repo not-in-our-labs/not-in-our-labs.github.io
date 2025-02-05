@@ -44,6 +44,16 @@ Below are all the sources that were used to make it. To note, there is a mix of 
 
 Feel free to share and spread the booklet! I also encourage you to build on it or make feedback, it is freely accessible and editable [here]()!
 
+# Additional ressources
+
+## Violence Meter
+
+The violence meter is a prevention tool to spread awareness and help recognize unhealthy and dangerous behaviours in relationships. After an in-depth study, Giorgia Magni made a version dedicated to academia. The original ressource and its description is in French [here](https://www.unige.ch/fapse/grire/outils-de-formation/violentometre).
+
+Find the violence meter in english [here](ressources/violencemeter.pdf), and a more detailed description for each item [here](ressources/violencemeter_details.pdf).
+
+For editable versions, see  [here](ressources/violencemeter.odg) and [here](ressources/violencemeter_details.odg).
+
 # Sources of the PhD booklet
 
 If you were interested in the booklet, below is the list of all the statistics and sources used to make it.
