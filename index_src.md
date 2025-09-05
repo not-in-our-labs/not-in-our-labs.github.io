@@ -29,6 +29,7 @@ But:
  * 33% of 1877 french doctorates have been depressed; [@2]
  * 54% of french doctorates are exposed to stress; [@0]
  * 36,1 % out of 2100 french doctorates recognize having been victim of moral harassment or psychological violence. [@23]
+ * and finally, the report [@0] is surprisingly optimistic on some points, and for instance states a global quitting rate for PhDs at 4%. However, another report states [@25]  that is is around 6% for technical sciences, and up to 40% for humanities.
 
 The situation is dire, and we need to spread awareness on this subject. In France, less than a third (30,1%) of PhD students consider to be well informed on all those issues [@23], time to change this!
 
@@ -100,7 +101,7 @@ The bullet points and style are mostly inspired from Dr Zoe Ayres "Toxic Mix" [p
 Not everybody start with the same chances to make it through:
 
 * 0,7% of UK university prof are black [@3], vs 3,3% of global population [@4]. So, UK university prof are 5 times less likely to be black.
-* 28% of UK university prof are women [@3], (vs 50%...). So, UK university prof are 1.8 times less likely to be women. The situation is similar in France, where 27% of French University proffesors are women [@8] and 40% of french researchers are women [@8].
+* 28% of UK university prof are women [@3], (vs 50%...). So, UK university prof are 1.8 times less likely to be women. The situation is similar in France, where the rate of women is 40% in PhD [@1] then 32% as assistant professor (MCF), and finally 19% as professor (PU) [@24].
 * US faculty are up to 25 times more likely to have a parent with a Ph.D [@5], and 20% of french doctorates have a close relative with a phd, while only 1,15% of the population has a thesis. [@0]
 * Working class in UK is 28% as likely to get a PHD vs privileged origins. [@6] So, UK working class are 3 times less likely to get a PhD.
 * 4% of UK uni staff declare disability, vs 16% of pop [@7]. So UK uni staff are 4 times less likely to declare a disability.
