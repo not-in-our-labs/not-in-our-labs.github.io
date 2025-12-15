@@ -12,13 +12,20 @@ endif
 
 TEMPLATE_HTML = template/template.html
 
-all: index.html
+all: index.html computer_science.html
 
 index.html: index_src.md $(TEMPLATE_HTML)
 	$(PANDOC) \
 	  --template $(TEMPLATE_HTML)\
           --citeproc\
 	  -t html -o $@ $<
+
+computer_science.html: computer_science_src.md $(TEMPLATE_HTML)
+	$(PANDOC) \
+	  --template $(TEMPLATE_HTML)\
+          --citeproc\
+	  -t html -o $@ $<
+
 
 clean:
 	-rm -f *.html
