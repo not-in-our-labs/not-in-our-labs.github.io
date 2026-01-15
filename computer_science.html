@@ -141,8 +141,10 @@ Academia - Index</title>
       <h1></h1>
 
 <!-- do not indent this line, may cause indentation problems in fenced code blocks! -->
-<h1 id="additional-statistics">Additional Statistics</h1>
-<p>This page summarizes a few statistics around gender bias in computer
+<h1
+id="additional-statistics-for-french-computer-science-academia">Additional
+Statistics for french computer science academia</h1>
+<p>We first provide a few statistics around gender bias in computer
 science in French academia (so-called section 27 of the CNU), based on
 publicly available data.</p>
 <p>Conclusions:</p>
@@ -186,6 +188,9 @@ pressure is put on a few of them. (many women never do any jury, while
 6% of women do more than 2 jury per year, vs only 1% of men).</li>
 <li><strong>Women’s PhD thesis (in number of pages) are slightly
 longer</strong> than men (on average 7 pages longer out of 180).</li>
+<li><strong>Women are more often on hiring committees</strong> , which
+is expected by French law which asks for at least 40% women in every
+committee, but once again, the global repartition is bad.</li>
 </ul>
 <div class="warning">
 <p><span style="color: #9a6700;">⚠ Warning</span></p>
@@ -248,10 +253,38 @@ biases, all scripts used to build the databases and the databases
 themselves can be found at
 (https://github.com/not-in-our-labs/workpace/tree/main/?tab=readme-ov-file)
 (in a messy state)</p>
-<p>Additional questions to explore based on the available data: * is
-there a bias w.r.t. cosupervisions? * is there a bias w.r.t. to thesis
-length in years? * is there a bias w.r.t. to unfinished thesis? (unclear
-if theses.fr gives this data though) * ?</p>
+<p>Additional questions to explore based on the available data:</p>
+<ul>
+<li>is there a bias w.r.t. cosupervisions?</li>
+<li>is there a bias w.r.t. to thesis length in years?</li>
+<li>is there a bias w.r.t. to unfinished thesis? (unclear if theses.fr
+gives this data though)</li>
+<li>?</li>
+</ul>
+<h1 id="hiring-committees-for-computer-science-and-maths">Hiring
+committees for computer science and maths</h1>
+<p>The french law for hiring committees enforces a 40% proportion of
+women. So, as expected, we see an unfair burden on women. However,
+across all sections, we observe <em>an unfair repartition whitin
+women</em>, with too much pressure put on too few women. Note that for
+section 27, the absolute values are very innacurate (see below), and
+only relative differences might be meaningful.</p>
+<p><img src="pics/jury_poste.sec25.png" /> <img
+src="pics/jury_poste.sec26.png" /> <img
+src="pics/jury_poste.sec27.png" /></p>
+<h2 id="methodology-1">Methodology</h2>
+<p>We used the electoral body of section 25,26 and 27 of 2019 and 2024,
+which contains the gender. In addition, we used the grassroot effort of
+registering committees at http://postes.smai.emath.fr</p>
+<p>Note that in section 27, the proportion of unregistered committees
+(for which we don’t know the set of committee members), is 52%, vs 8%
+for 25 and 13% for 26. Hence, for section 27, the absolute value are
+very much far away from the truth.</p>
+<p>In addition, the committees member list are not at all formated in a
+consistent way. For each cnu member, we counted how many time either
+“firstname surname” or “surname firstname” occured in those
+inconsistenly formatted lists. Many data points are probably missed, but
+this should not introduce any gender bias.</p>
 
       <hr>
       <div class="footer-nav">
