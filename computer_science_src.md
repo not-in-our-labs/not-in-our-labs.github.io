@@ -53,9 +53,9 @@ Highlights:
 
 Highlights for people in section 27: 
 
- * **Men supervise more than women** (about 1.5 times more on average, and 60% of women don't supervise vs 45% of men). The effect holds for both PU or MCF.
- * **Women are more often jury member** for thesis, but in addition the global repartition whithin women is very bad, where a lot of pressure is put on a few of them. The effect is most striking for PU, but also holds for MCF.
- * **Women's PhD thesis (in number of pages) are slightly longer** than men (on average 7 pages longer out of 180).
+ * Effect 1: **Men supervise more than women** (about 1.5 times more on average, and 60% of women don't supervise vs 45% of men). The effect holds for both PU or MCF.
+ * Effect 2: **Women are more often jury member** for thesis, but in addition the global repartition whithin women is very bad, where a lot of pressure is put on a few of them. The effect is most striking for PU, but also holds for MCF.
+ * Effect 3: **Women's PhD thesis (in number of pages) are slightly longer** than men (on average 7 pages longer out of 180).
 
 
 ::::: warning
@@ -107,7 +107,9 @@ The french law for hiring committees enforces a 40% proportion of women. So, as 
 ![](pics/jury_poste.mcf.sec27.png)
 
 
-## Methodology
+
+
+# Methodology
 
 ### MCF/PU positions
 
@@ -119,7 +121,7 @@ For PhD thesis gender/length/review/supervisions, data was scrapped from [theses
 
 Notably, gender is mostly guessed using an INSEE database of name popularity w.r.t. gender in France. For CNU 27 people, gender was correctly guessed (comparing with the one from the electoral body) with above 95% probability.
 
-For linking a name from the electoral body listing to a theses.fr identifier, we match by full name and use for homonyms the person with the most activity as a link. For women that may take their husband names upon  mariage, we lose precision, and we notice that at the PU rank, we don't find matches for ~28% of PU women, vs ~15% for PU men (similar accross sec 25,26,27). For PU in sec 27, we did a manual pass to match more people, and reached a similar ratio as for men. This only affected the bar at 0 of corresponding graphs, keeping the rest of the distribution shape similar. At MCF rank, there is not significant difference in loss between male/females.
+For linking a name from the electoral body listing to a theses.fr identifier, we match by full name and use for homonyms the person with the most activity as a link. For women that may take their husband names upon  mariage, we lose precision, and we notice that at the PU rank, we don't find matches for ~28% of PU women, vs ~15% for PU men (similar accross sec 25,26,27). For PU in sections 25/26/27, we did a manual pass to match more people, and reached a similar ratio as for men. This only affected the bar at 0 of corresponding graphs, keeping the rest of the distribution shape similar. At MCF rank, there is not significant difference in loss between male/females, so a manual pass is not needed to preserve the results (and nicely so, because a manual pass there becomes complicated...).
 
 A PhD thesis was considered to belong to section 27 if at least one of the director is inside the section.
 
@@ -151,3 +153,33 @@ Additional questions to explore based on the available data:
  * is there a bias w.r.t. to unfinished thesis? (unclear if theses.fr gives this data though)
  * ?
 
+# Appendix: additional statistics for french math academia
+
+Bias around PhD are also found in sections 25 and 26, we provide here the corresponding graphs.
+
+## Section 26
+
+### Effect 1 graphics
+![](pics/supervised.pu.sec26.png)
+![](pics/supervised.sec26.png)
+![](pics/supervised.mcf.sec26.png)
+
+### Effect 2 graphics
+
+![](pics/examiner.pu.sec26.png)
+![](pics/examiner.sec26.png)
+![](pics/examiner.mcf.sec26.png)
+
+
+## Section 25
+
+### Effect 1 graphics
+![](pics/supervised.pu.sec25.png)
+![](pics/supervised.sec25.png)
+![](pics/supervised.mcf.sec25.png)
+
+### Effect 2 graphics
+
+![](pics/examiner.pu.sec25.png)
+![](pics/examiner.sec25.png)
+![](pics/examiner.mcf.sec25.png)
