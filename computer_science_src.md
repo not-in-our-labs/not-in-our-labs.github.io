@@ -53,11 +53,9 @@ Highlights:
 
 Highlights for people in section 27: 
 
- * **Men supervise more than women** (about 1.5 times more on average, and 60% of women don't supervise vs 45% of men).
- * **Women are more often jury member** for thesis, but in addition the global repartition is very bad for women, where a lot of pressure is put on a few of them. (many women never do any jury, while 6% of women do more than 2 jury per year, vs only 1% of men). 
+ * **Men supervise more than women** (about 1.5 times more on average, and 60% of women don't supervise vs 45% of men). The effect holds for both PU or MCF.
+ * **Women are more often jury member** for thesis, but in addition the global repartition whithin women is very bad, where a lot of pressure is put on a few of them. The effect is most striking for PU, but also holds for MCF.
  * **Women's PhD thesis (in number of pages) are slightly longer** than men (on average 7 pages longer out of 180).
- * **Women are more often on hiring committees** , which is expected by French law which asks for at least 40% women in every committee, but once again, the global repartition is bad.
-
 
 
 ::::: warning
@@ -72,23 +70,54 @@ Effect 1 and 2 appear specific to section 27, and disappears when we consider al
 
 Effect 3 may imply that explicit or implicit pressure is put on women to produce more, to "make them prove that they belong". More research would be needed to explain this phenomenon, but we can still be on the lookout for its consequences.
 
-The plots below are density functions (the area below the lines sum to 1). On the first one, we for instance see that way more women than men in proportion never do any thesis jury (the red bar is bigger than the purple one at 0), and that the last decile is way higher for women.
+The plots below are density functions (the area below the lines sum to 1). On the first one, we for instance see that way more women than men in proportion never do any thesis jury (the red bar is bigger than the purple one at 0), and that the last decile is way higher for women. For each effect, we put the most striking graph first.
 
-
-![](pics/examiner.sec27.png)
-
+### Effect 1 graphics
+![](pics/supervised.pu.sec27.png)
 ![](pics/supervised.sec27.png)
+![](pics/supervised.mcf.sec27.png)
 
-![](pics/length.info.zoom.png)
+
+### Effect 2 graphics
+
+![](pics/examiner.pu.sec27.png)
+![](pics/examiner.sec27.png)
+![](pics/examiner.mcf.sec27.png)
+
+
+### Effect 3 graphics
+
+![](pics/length.info.png)
+
+
+
+# Hiring committees for computer science and maths
+
+
+The french law for hiring committees enforces a 40% proportion of women. So, as expected, we see an unfair burden on women. However, across all sections, we observe **an unfair repartition whitin women**, with too much pressure put on too few women. The effect is most striking for PU in sec 25 and 26, and more reasonable for section 27. However, note that for section 27, the results are very innacurate (see  [Methodology](#methodology) below), almost half of the data is missing, which could fully invisibilize the targetted effect.
+
+### Graphs ordered from most striking to less striking unfair repartition
+
+![](pics/jury_poste.pu.sec25.png)
+![](pics/jury_poste.pu.sec26.png)
+![](pics/jury_poste.mcf.sec25.png)
+
+![](pics/jury_poste.mcf.sec26.png)
+![](pics/jury_poste.pu.sec27.png)
+![](pics/jury_poste.mcf.sec27.png)
 
 
 ## Methodology
 
+### MCF/PU positions
+
 For MCF/PU positions, data was aggregated from the "Fiches démographiques des sections du Conseil national des universités (CNU)" for section 27, for INRIA, from the "Rapport Social Unique" 2022 and 2023, for CNRS, from "Rappor de conjoncture" 2018 and 2025. 
+
+### Thesis 
 
 For PhD thesis gender/length/review/supervisions, data was scrapped from [theses.fr](https://theses.fr) and [theses.hal.science/](https://theses.hal.science/), supported with the electoral body of section 27 of 2019 and 2024 (which also contains the gender).  Some errors are very likely to be contained, but for checkable data, data is consistent.
 
-Notably, gender is mostly guessed using an INSEE database of name popularity w.r.t. gender in France. For CNU 27 people, gender was correctly guessed with above 95% probability.
+Notably, gender is mostly guessed using an INSEE database of name popularity w.r.t. gender in France. For CNU 27 people, gender was correctly guessed (comparing with the one from the electoral body) with above 95% probability.
 
 A PhD thesis was considered to belong to section 27 if at least one of the director is inside the section.
 
@@ -99,26 +128,7 @@ Several bias/limitations are present:
  
 Data would need to be manually inspected based on random sampling to increase trust in the results. Some statistically significant bias would require a quantitative analysis to identify the origin. 
 
-For people willing to contribute to the exploration of potential biases, all scripts used to build the databases and the databases themselves can be found at (https://github.com/not-in-our-labs/workpace/tree/main/?tab=readme-ov-file) (in a messy state)
-
-Additional questions to explore based on the available data:
-
- * is there a bias w.r.t. cosupervisions?
- * is there a bias w.r.t. to thesis length in years?
- * is there a bias w.r.t. to unfinished thesis? (unclear if theses.fr gives this data though)
- * ?
-
-# Hiring committees for computer science and maths
-
-
-
-The french law for hiring committees enforces a 40% proportion of women. So, as expected, we see an unfair burden on women. However, across all sections, we observe *an unfair repartition whitin women*, with too much pressure put on too few women. Note that for section 27, the absolute values are very innacurate (see below), and only relative differences might be meaningful. 
-
-![](pics/jury_poste.sec25.png)
-![](pics/jury_poste.sec26.png)
-![](pics/jury_poste.sec27.png)
-
-## Methodology
+### Hiring committees
 
 We used the electoral body of section 25,26 and 27 of 2019 and 2024, which contains the gender. In addition, we used the grassroot effort of registering committees at http://postes.smai.emath.fr 
 
@@ -127,4 +137,15 @@ Note that in section 27, the proportion of unregistered committees (for which we
 In addition, the committees member list are not at all formated in a consistent way. For each cnu member, we counted how many time either "firstname surname" or "surname firstname" occured in those inconsistenly formatted lists. Many data points are probably missed, but this should not introduce any gender bias.
 
 
+
+### Final comments
+
+For people willing to contribute to the exploration of potential biases, all scripts used to build the databases and the databases themselves can be found at (https://github.com/not-in-our-labs/workpace/tree/main/?tab=readme-ov-file) (in a messy state)
+
+Additional questions to explore based on the available data:
+
+ * is there a bias w.r.t. cosupervisions?
+ * is there a bias w.r.t. to thesis length in years?
+ * is there a bias w.r.t. to unfinished thesis? (unclear if theses.fr gives this data though)
+ * ?
 

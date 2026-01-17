@@ -181,16 +181,14 @@ is worsening.</li>
 <p>Highlights for people in section 27:</p>
 <ul>
 <li><strong>Men supervise more than women</strong> (about 1.5 times more
-on average, and 60% of women don’t supervise vs 45% of men).</li>
+on average, and 60% of women don’t supervise vs 45% of men). The effect
+holds for both PU or MCF.</li>
 <li><strong>Women are more often jury member</strong> for thesis, but in
-addition the global repartition is very bad for women, where a lot of
-pressure is put on a few of them. (many women never do any jury, while
-6% of women do more than 2 jury per year, vs only 1% of men).</li>
+addition the global repartition whithin women is very bad, where a lot
+of pressure is put on a few of them. The effect is most striking for PU,
+but also holds for MCF.</li>
 <li><strong>Women’s PhD thesis (in number of pages) are slightly
 longer</strong> than men (on average 7 pages longer out of 180).</li>
-<li><strong>Women are more often on hiring committees</strong> , which
-is expected by French law which asks for at least 40% women in every
-committee, but once again, the global repartition is bad.</li>
 </ul>
 <div class="warning">
 <p><span style="color: #9a6700;">⚠ Warning</span></p>
@@ -213,16 +211,45 @@ lookout for its consequences.</p>
 <p>The plots below are density functions (the area below the lines sum
 to 1). On the first one, we for instance see that way more women than
 men in proportion never do any thesis jury (the red bar is bigger than
-the purple one at 0), and that the last decile is way higher for
-women.</p>
-<p><img src="pics/examiner.sec27.png" /></p>
-<p><img src="pics/supervised.sec27.png" /></p>
-<p><img src="pics/length.info.zoom.png" /></p>
+the purple one at 0), and that the last decile is way higher for women.
+For each effect, we put the most striking graph first.</p>
+<h3 id="effect-1-graphics">Effect 1 graphics</h3>
+<p><img src="pics/supervised.pu.sec27.png" /> <img
+src="pics/supervised.sec27.png" /> <img
+src="pics/supervised.mcf.sec27.png" /></p>
+<h3 id="effect-2-graphics">Effect 2 graphics</h3>
+<p><img src="pics/examiner.pu.sec27.png" /> <img
+src="pics/examiner.sec27.png" /> <img
+src="pics/examiner.mcf.sec27.png" /></p>
+<h3 id="effect-3-graphics">Effect 3 graphics</h3>
+<p><img src="pics/length.info.png" /></p>
+<h1 id="hiring-committees-for-computer-science-and-maths">Hiring
+committees for computer science and maths</h1>
+<p>The french law for hiring committees enforces a 40% proportion of
+women. So, as expected, we see an unfair burden on women. However,
+across all sections, we observe <strong>an unfair repartition whitin
+women</strong>, with too much pressure put on too few women. The effect
+is most striking for PU in sec 25 and 26, and more reasonable for
+section 27. However, note that for section 27, the results are very
+innacurate (see <a href="#methodology">Methodology</a> below), almost
+half of the data is missing, which could fully invisibilize the
+targetted effect.</p>
+<h3
+id="graphs-ordered-from-most-striking-to-less-striking-unfair-repartition">Graphs
+ordered from most striking to less striking unfair repartition</h3>
+<p><img src="pics/jury_poste.pu.sec25.png" /> <img
+src="pics/jury_poste.pu.sec26.png" /> <img
+src="pics/jury_poste.mcf.sec25.png" /></p>
+<p><img src="pics/jury_poste.mcf.sec26.png" /> <img
+src="pics/jury_poste.pu.sec27.png" /> <img
+src="pics/jury_poste.mcf.sec27.png" /></p>
 <h2 id="methodology">Methodology</h2>
+<h3 id="mcfpu-positions">MCF/PU positions</h3>
 <p>For MCF/PU positions, data was aggregated from the “Fiches
 démographiques des sections du Conseil national des universités (CNU)”
 for section 27, for INRIA, from the “Rapport Social Unique” 2022 and
 2023, for CNRS, from “Rappor de conjoncture” 2018 and 2025.</p>
+<h3 id="thesis">Thesis</h3>
 <p>For PhD thesis gender/length/review/supervisions, data was scrapped
 from <a href="https://theses.fr">theses.fr</a> and <a
 href="https://theses.hal.science/">theses.hal.science/</a>, supported
@@ -231,7 +258,8 @@ contains the gender). Some errors are very likely to be contained, but
 for checkable data, data is consistent.</p>
 <p>Notably, gender is mostly guessed using an INSEE database of name
 popularity w.r.t. gender in France. For CNU 27 people, gender was
-correctly guessed with above 95% probability.</p>
+correctly guessed (comparing with the one from the electoral body) with
+above 95% probability.</p>
 <p>A PhD thesis was considered to belong to section 27 if at least one
 of the director is inside the section.</p>
 <p>Several bias/limitations are present:</p>
@@ -248,6 +276,20 @@ an id are not always linked to the id.</li>
 <p>Data would need to be manually inspected based on random sampling to
 increase trust in the results. Some statistically significant bias would
 require a quantitative analysis to identify the origin.</p>
+<h3 id="hiring-committees">Hiring committees</h3>
+<p>We used the electoral body of section 25,26 and 27 of 2019 and 2024,
+which contains the gender. In addition, we used the grassroot effort of
+registering committees at http://postes.smai.emath.fr</p>
+<p>Note that in section 27, the proportion of unregistered committees
+(for which we don’t know the set of committee members), is 52%, vs 8%
+for 25 and 13% for 26. Hence, for section 27, the absolute value are
+very much far away from the truth.</p>
+<p>In addition, the committees member list are not at all formated in a
+consistent way. For each cnu member, we counted how many time either
+“firstname surname” or “surname firstname” occured in those
+inconsistenly formatted lists. Many data points are probably missed, but
+this should not introduce any gender bias.</p>
+<h3 id="final-comments">Final comments</h3>
 <p>For people willing to contribute to the exploration of potential
 biases, all scripts used to build the databases and the databases
 themselves can be found at
@@ -261,30 +303,6 @@ themselves can be found at
 gives this data though)</li>
 <li>?</li>
 </ul>
-<h1 id="hiring-committees-for-computer-science-and-maths">Hiring
-committees for computer science and maths</h1>
-<p>The french law for hiring committees enforces a 40% proportion of
-women. So, as expected, we see an unfair burden on women. However,
-across all sections, we observe <em>an unfair repartition whitin
-women</em>, with too much pressure put on too few women. Note that for
-section 27, the absolute values are very innacurate (see below), and
-only relative differences might be meaningful.</p>
-<p><img src="pics/jury_poste.sec25.png" /> <img
-src="pics/jury_poste.sec26.png" /> <img
-src="pics/jury_poste.sec27.png" /></p>
-<h2 id="methodology-1">Methodology</h2>
-<p>We used the electoral body of section 25,26 and 27 of 2019 and 2024,
-which contains the gender. In addition, we used the grassroot effort of
-registering committees at http://postes.smai.emath.fr</p>
-<p>Note that in section 27, the proportion of unregistered committees
-(for which we don’t know the set of committee members), is 52%, vs 8%
-for 25 and 13% for 26. Hence, for section 27, the absolute value are
-very much far away from the truth.</p>
-<p>In addition, the committees member list are not at all formated in a
-consistent way. For each cnu member, we counted how many time either
-“firstname surname” or “surname firstname” occured in those
-inconsistenly formatted lists. Many data points are probably missed, but
-this should not introduce any gender bias.</p>
 
       <hr>
       <div class="footer-nav">
