@@ -119,6 +119,8 @@ For PhD thesis gender/length/review/supervisions, data was scrapped from [theses
 
 Notably, gender is mostly guessed using an INSEE database of name popularity w.r.t. gender in France. For CNU 27 people, gender was correctly guessed (comparing with the one from the electoral body) with above 95% probability.
 
+For linking a name from the electoral body listing to a theses.fr identifier, we match by full name and use for homonyms the person with the most activity as a link. For women that may take their husband names upon  mariage, we lose precision, and we notice that at the PU rank, we don't find matches for ~28% of PU women, vs ~15% for PU men (similar accross sec 25,26,27). For PU in sec 27, we did a manual pass to match more people, and reached a similar ratio as for men. This only affected the bar at 0 of corresponding graphs, keeping the rest of the distribution shape similar. At MCF rank, there is not significant difference in loss between male/females.
+
 A PhD thesis was considered to belong to section 27 if at least one of the director is inside the section.
 
 Several bias/limitations are present:
