@@ -22,6 +22,66 @@ For a variety of subjects, this page very quickly summarizes and cite some repor
 
 # Gender and sexual harassment
 
+
+
+
+###  Ireland  COSHARE North-South survey report [@coshare]
+
+
+Survey on 521 staff members in Irish Higher Education:
+
+ - "Almost two thirds of participants (64%) had
+experienced sexual harassment in the past five
+years. This included **57% who had experienced
+sexist hostility, 23% with an experience of
+electronic or visual sexual harassment, 34% who
+experienced sexualised comments, 31% who had
+experienced unwanted sexual attention, and 5%
+with an experience of sexual coercion.**"
+ - "A striking finding was that, for most participants who were
+affected, harassment was experienced in both personal and professional
+contexts" 
+ - "(26%) experienced some form of sexual violence in the past five years, in their personal or professional lives" (half of those, 13%, at the workplace) 
+
+On general well-being: "The PHQ-4 measure of anxiety and depression
+demonstrated **widespread mental health burden among the participant
+group as a whole**. Those with previous experience of SVH had
+significantly higher scores than other survey respondent"
+
+### National Surveys of Staff and Student Experiences of Sexual Violence and Harassment in Irish HEIs [@macneela2022report] [@macneela2022reportstaff]
+
+11, 417 responses were received (7,901 students and 3,516 staff).
+
+Staff:
+
+- "**half of the respondents** described being **treated differently** (52%) or **being put
+down or condescended to** (47%) because of gender. Approximately **one third** of the respondents
+(35%) said they had **experienced sexist remarks**." 
+- "sexual hostility or crude gender harassment was described by
+between 14% and 21% of the survey respondents"
+- "6% of survey respondents said someone had continued to ask them for a romantic date
+even though they had said ‘no’ and 10% had the experience of someone making unwanted
+attempts to establish a romantic sexual relationship with them"
+- " coercive harassment ranged from 1% (retaliation after a
+relationship ended), to 2% (implying better treatment) and 3% (feeling threatened, feeling
+bribed with a reward)."
+- " most common form of unwanted sexual contact was being touched in a
+way that made them feel uncomfortable (12%)."
+- "someone making unwanted attempts to stroke or kiss
+the person. This was described by 4% of staff"
+
+Students:
+
+- **half experience gender harassment, a third sexual hostility**
+- "Nearly three in ten of the students who responded to the survey said they felt like
+they were being bribed with a reward or special treatment to engage in sexual behaviour, and
+27% responded that someone had implied better treatment if they were sexually cooperative."
+- "non-consensual sexual touching without any indication that the behaviour was welcome (45% of students overall)"
+- "Nearly one in five **(19%)** of the females who responded to these statements **described
+experiencing non-consensual vaginal penetration through coercion**, while 31% had this
+experience while incapacitated, forced, or threatened with force."
+
+
 ### Violences sexuelles dans l’enseignement supérieur en France : un focus sur l’alcool et le cannabis [@vss-alcool-mildeca]
 
 Rapport sur une enquête nationale menéee en 2023-2024, 67 000 répondants:
@@ -38,7 +98,7 @@ consommation d'alcool."
 *Keywords*: statistics, sexual assault, rape, alcool, france
 
 ### The Potential of Sexual Consent Interventions on College Campuses: A Literature Review on the Barriers to Establishing Affirmative Sexual Consent [@johnson2015potential]
-https://files.core.ac.uk/download/pdf/228819905.pdf
+
 
 There are rape myths: "In the case of sexual consent, **three rape myths**
 are relevant to the new affirmative consent law: (a) **unintentional
@@ -175,7 +235,31 @@ harassers too lightly** (Lay, 2019; Lichty et al., 2008; Robertson et al., 1988)
 *Keywords*: opaque report processes, training
 
 
+### Can I Say “No”? How Power Dynamics Hinder Consent in University Settings [@bergeron2025can]
+
+" Restricting the notion of sexual consent to its communicative
+dimension risks perpetuating rape myths and victim-blaming, placing undue blame on
+victims who have “failed to properly communicate.” Additionally, the influence of
+**unequal power dynamics and gendered and social norms need to be addressed when dis-
+cussing consent and sexual violence**. Consent education, including affirmative consent
+and grey area trainings, remains important (Setty, 2023) and should incorporate chal-
+lenges to social norms (e.g., heteronormative standards, gender-based power imbalances
+such as expectations of male assertiveness and female compliance) and support the iden-
+tification of conditions that render consent invalid (e.g., intoxication, coercion, position
+of authority). The normalization of misconduct in supposedly safe environments and the
+issue of institutional betrayal highlight the need for institutional change and courage.
+**Universities must promote cultural change, challenge social norms, and ensure transpar-
+ency and accountability to rebuild trust**"
+
+
 # Discriminations
+
+### Understanding Research Culture: What researchers think about the culture they work in [@moran2020]
+
+For UK researchers, 94 qualitative interviews and a quantitative e-survey with 4267 usable responses.
+
+![](biblio-pics/moran2020.png)
+
 
 ## Gender discrimination in academia
 
@@ -192,6 +276,51 @@ citing behaviors, this study suggests that the primary reason
 for the lower citation rates at the author level is women
 publishing fewer articles over their careers."
 
+### When Two Bodies Are (Not) a Problem: Gender and Relationship Status Discrimination in Academic Hiring [@rivera2017two]
+
+
+"Drawing from gendered scripts of career and family that present men’s
+careers as taking precedence over women’s, committee members assumed that heterosexual
+women whose partners held academic or high-status jobs were not “movable,” and excluded
+such women from offers when there were viable male or single female alternatives.
+Conversely, committees infrequently discussed male applicants’ relationship status and
+saw all female partners as movable. Consequently, I show that the **“two-body problem” is a
+gendered phenomenon embedded in cultural stereotypes and organizational practices that
+can disadvantage women in academic hiring.**"
+
+
+
+### SHE Figures 2024 [@shefigures]
+
+The leaky pipeline is everywhere:
+
+![](biblio-pics/shefigure-all.png)
+
+In STEM, we start from a worth position:
+![](biblio-pics/shefigure-stem.png)
+
+### Impact de la réforme du lycée sur l’enseignement de l’informatique : bilan et perspectives [@sif-reforme]
+
+Very bad impact of a french 2019 highschool reform on share of women in computer science teaching.
+
+![](biblio-pics/sif-com-fig4.png)
+
+
+### Gendered Citations at Top Economic Journals [@koffi2021gendered]
+ 	
+"This paper investigates how women's works are perceived among their peers. I construct a dataset using bibliographic data from articles published in top journals in economics and granular information on the articles that cite them. I find that **female-authored papers in top economic journals** are (i) more likely to be cited outside economics, (ii) **less likely to be cited by top-tier journals**, and (iii) **less likely to be cited by men**. I conclude with a discussion on those results and their implications for females in economics."
+
+### Recognition for Group Work: Gender Differences in Academia [@sarsons2017recognition]
+	
+**Women don't get any credit for group work, while men do**:	
+"How is credit for group work allocated when individual contributions are not observed? I use data on academics' publication records to test whether demographic traits like gender influence how credit is allocated under such uncertainty. While solo-authored papers send a clear signal about ability, coauthored papers are noisy, providing no specific information about each contributor's skills. I find that men are tenured at roughly the same rate regardless of coauthoring choices. Women, however, are less likely to receive tenure the more they coauthor. The result is much less pronounced among women who coauthor with other women."
+
+
+### Men set their own cites high: Gender and self-citation across fields and over time [@king2017men]
+
+"In the last two decades of data, **men self-cited 70 percent more than women**."
+
+![](biblio-pics/king2017men-fig6.png)
 
 ## Underrepresented minority (URM) discrimination
 
@@ -199,6 +328,72 @@ publishing fewer articles over their careers."
 ### Underrepresented minority faculty in the USA face a double standard in promotion and tenure decisions [@masters2024underrepresented]
 
 "Data from five US universities on 1,571 faculty members’ P&T decisions show that **URM faculty received 7% more negative votes and were 44% less likely to receive unanimous votes from P&T committees**. A double standard in how scholarly productivity is rewarded is also observed, with below-average h-indexes being **judged more harshly for URM faculty than for non-URM faculty**."
+
+## Weight discrimination
+
+
+
+### Weight bias in graduate school admissions [@burmeister2013weight]
+
+"**Higher BMI significantly predicted fewer post-interview offers** of admission into psychology graduate programs. Results also suggest this relationship is **stronger for female applicants**. BMI was not related to overall quality or the number of stereotypically weight-related adjectives in letters of recommendation. Surprisingly, higher BMI was related to more positive adjectives in letters."
+
+
+
+### Weight bias among students and employees in university settings: an exploratory study [@sohier2025weight]
+
+Study out of 292 students and 129 university employees:
+"Approximately half of the respondents reported **experiencing
+weight-related stigma (44.7%)**, and **half indicated holding prejudice
+towards overweight people (51.1%)**, with a moderate rate of bias
+according to the FPS (3.25). "
+
+
+### « L'unif ne veut pas de moi ! » La grossophobie en milieu académique au prisme du genre [@claro2025unif]
+
+
+A lack of statistics in France:
+
+ - "En France, 17% de la population est classée « obèse » et 27-37% « en surpoids », selon l’indice
+de masse corporelle (IMC) (Carof 2021a, pp 59-60)."
+ - "Fondée sur des seuils d’IMC contestés, cette **pathologisation privilégie la responsabilisation individuelle au détriment d’une lecture structurelle des inégalités sociales de santé** (Carof 2019 ; 2021a, p 29)."
+ - "Ces discriminations se traduisent vraisemblablement par une
+sous-représentation des personnes grosses dans les carrières
+scientifiques, bien qu’il n’y ait pas de statistiques disponibles à ce
+sujet en Belgique ou en France."
+
+
+
+
+# Toxic culture in general
+
+
+### Systematic review and meta-analysis of depression, anxiety, and suicidal ideation among Ph. D. students [@satinsky2021systematic]
+
+"Among 16 studies reporting the prevalence of clinically significant symptoms of depression across 23,469 Ph.D. students, the pooled estimate of the proportion of **students with depression was 24%**"
+
+![](biblio-pics/satinsky2021systematic-fig2.png)
+
+### PhDs: the tortuous truth [@woolston2019phds]
+
+6000 phd student survey by nature.
+
+![](biblio-pics/woolston2019phds.png)
+
+### La gestion du stress chez les doctorants : la surconsommation de certains produits qui pourraient nuire à leur santé [@gerard2013gestion]
+
+
+Survey on 438 PhD students:
+
+ - "Les résultats indiquent des corrélations significatives entre le
+niveau de stress perçu, le sentiment d'avoir développé une addiction
+depuis l’entrée en doctorat et l'année d'inscription en doctorat"
+- "Les doctorantEs un niveau moyen de stress perçu plus élevé que
+chez les doctorant"
+- "Les **doctorants interrogés, disent avoir augmenté** leur consommation de café, de sucreries
+(bonbons/chocolat), de vitamines, d’alcool et de tabac depuis leur entrée en doctorat dans une
+proportion qui varie de 51,05 % pour le café à **17,48 % pour le tabac**.
+L’augmentation de la consommation des autres produits (boissons stimulantes,
+antidépresseurs, somnifères et drogues) est plus faible et n’atteint pas 10 %" (pour les antidépresseurs, 3,5% en consommé avant, et 7,51% en consomme maintenant)
 
 
 # Looking forward
@@ -227,6 +422,13 @@ model. Second, despite their underrepresentation, **the publications
 of mixed- gender teams are substantially more novel and impactful than
 t/he publications of same- gender teams of equivalent size**."
 
+### Collaborating with people like me: Ethnic coauthorship within the United States [@freeman2015collaborating]
+
+Study over "2.5 million scientific papers written by US-based
+authors from 1985 to 2008".
+
+"**diversity** in inputs by author ethnicity, location, and references
+**leads to greater contributions to science** as measured by impact factors and citations."
 
 ## Improve Hiring
 
@@ -261,7 +463,7 @@ equity, and inclusion. "
 diminution for women!), "Compared with search committees that did not
 have at least 40 percent women, those that did were more likely to
 have higher percentages of both women and URMs under consideration at
-each search stage"
+each search stage" <!> not true in general, see two other papers on the subject here
 - **targetted outreach** "Our research also confirmed the promise of
 several kinds of targeted outreach that encourage applications from a
 small number of unusually strong candidates who also would advance the
@@ -273,230 +475,184 @@ taking steps to counter implicit bias, and requiring applicants to
 provide evidence of their commitment to diversity**."
 
 
-
-# TODO - format and cite below
-
-## Can I Say “No”? How Power Dynamics Hinder Consent in University Settings
-https://journals.sagepub.com/doi/pdf/10.1177/10778012251338485
-
-" Restricting the notion of sexual consent to its communicative
-dimension risks perpetuating rape myths and victim-blaming, placing undue blame on
-victims who have “failed to properly communicate.” Additionally, the influence of
-unequal power dynamics and gendered and social norms need to be addressed when dis-
-cussing consent and sexual violence. Consent education, including affirmative consent
-and grey area trainings, remains important (Setty, 2023) and should incorporate chal-
-lenges to social norms (e.g., heteronormative standards, gender-based power imbalances
-such as expectations of male assertiveness and female compliance) and support the iden-
-tification of conditions that render consent invalid (e.g., intoxication, coercion, position
-of authority). The normalization of misconduct in supposedly safe environments and the
-issue of institutional betrayal highlight the need for institutional change and courage.
-Universities must promote cultural change, challenge social norms, and ensure transpar-
-ency and accountability to rebuild trust"
+### Does the Gender Composition of Scientific Committees Matter? [@bagues2017does]
+	
+"We analyze how a larger presence of female evaluators affects committee decision-making using information on 100,000 applications to associate and full professorships in Italy and Spain. These applications were assessed by 8,000 randomly selected evaluators. A larger **number of women in evaluation committees does not increase either the quantity or the quality of female candidates who qualify**. Information from individual voting reports suggests that female evaluators are not significantly more favorable toward female candidates. At the same time, **male evaluators become less favorable toward female candidates as soon as a female evaluator joins the committee**. "
 
 
-## Weight bias in graduate school admissions
-https://onlinelibrary.wiley.com/doi/full/10.1002/oby.20171
-Higher BMI significantly predicted fewer post-interview offers of admission into psychology graduate programs. Results also suggest this relationship is stronger for female applicants. BMI was not related to overall quality or the number of stereotypically weight-related adjectives in letters of recommendation. Surprisingly, higher BMI was related to more positive adjectives in letters.
+### Gender Quotas in Hiring Committees: A Boon or a Bane for Women? [@deschamps2024gender]
+
+Since French law of 2015,  40% gender quotas in hiring committees.  
+
+"Contrary to the objectives of the law, I show that **the reform backfired and significantly lowered women’s probability of being hired**. Because **the negative effect of the reform is concentrated in committees headed by men, this result seems driven by the reaction of men to the reform**.  I find little evidence that the reform affects supply-side characteristics, such as the likelihood of women applying. The results suggest that the underrepresentation of women is unlikely to be solved by simply increasing the share of women in hiring committees or interview panels."
+
+### The achievement of gender parity in a large astrophysics research centre [@kewley2023achievement]
+
+Between 2017 and 2022, the Astro3d center reached parity, from 38% to 50%.
+
+Recruitement measures: 
+
+- clear goals in terms of diversity 
+- diversifiction of team leaders 
+- 2 day trainging on diversity for everybody, every year. 
+- minimal quota of 50% of women in postdoc hiring committees
+- minimal quota of 50% of women on final postdoc listings
+
+There is a cascading effect (+ leader women -> + postdoc women -> + PhD women), 
+
+It is important to recruit AND keep people, **women  stay more in women lead teams".es femmes
+
+Inclusivity Mesures:
+
+- "implicit bias training, members also took cultural, LGBTQIA+, and Indigenous awareness training in subsequent annual retreats, and held monthly seminars on diversity and inclusion"
+-  "The center’s code of conduct clearly established actions against sexism, insults, microaggressions, and behaviors that excluded other members, and the center had multiple ways of filing misconduct complaints."
 
 
-
-## Weight bias among students and employees in university settings: an exploratory study
-https://pmc.ncbi.nlm.nih.gov/articles/PMC11841011/
-"Approximately half of the respondents reported experiencing weight-related stigma (44.7%), and half indicated holding prejudice towards overweight people (51.1%), with a moderate rate of bias according to the FPS (3.25). "
+### Increasing diversity in STEM academia: a scoping review of intervention evaluations [@meyer2025increasing]
 
 
-## « L'unif ne veut pas de moi ! » La grossophobie en milieu académique au prisme du genre
-https://thesis.dial.uclouvain.be/server/api/core/bitstreams/f58a65fa-64dd-4687-82a2-11c1fac4f0ae/content
-'En France, 17% de la population est classée « obèse » et 27-37% « en surpoids », selon l’indice
-de masse corporelle (IMC) (Carof 2021a, pp 59-60).'
-"Fondée sur des seuils d’IMC contestés, cette pathologisation privilégie la responsabilisation individuelle au détriment d’une lecture structurelle des inégalités sociales de santé (Carof 2019 ; 2021a, p 29). "
-'Ces discriminations se traduisent vraisemblablement
-par une sous-représentation des personnes grosses dans les carrières scientifiques, bien qu’il
-n’y ait pas de statistiques disponibles à ce sujet en Belgique ou en France.'
-
-
-## La gestion du stress chez les doctorants : la surconsommation de certains produits qui pourraient nuire à leur santé
-https://hal.science/hal-00857751v1/document
-
-
-##  Ireland  COSHARE North-South survey report
-https://www.ulster.ac.uk/news/2024/december/north-south-research-examines-higher-education-consent,-sexual-violence,-harassment-and-equality
-
-The research found that, of the 364 staff who opted to respond to questions on their experiences of sexual violence and harassment, 43% have experienced some form of this behaviour in their work or personal lives in the last year and 66% in the last five years. In the context of this research, SVH is a collective term that includes physical contact or non-physical conduct of a sexual nature that occurs in the absence of clear, knowing and voluntary consent.
-
-
-
-## Ireland HEA survey
-https://hea.ie/policy/gender/national-survey-of-the-experiences-of-students-in-relation-to-sexual-violence-and-harassment/
-
-11, 417 responses were received (7,901 students and 3,516 staff).
-
-
-
-## The achievement of gender parity in a large astrophysics research centre
-
-cf online-videos.md
-+ https://www.science.org/content/article/how-astrophysics-center-achieved-gender-parity
-
-## Increasing diversity in STEM academia: a scoping review of intervention evaluations
-
-https://astro3d.org.au/we-achieved-gender-parity-in-astronomy-in-just-five-years/
-
-" First, over 80% of the articles in this review were based in the US. While this does not mean
-that interventions are not conducted elsewhere, it does suggest that the current evidence base is
+**Lack of none US based data**:
+" First, over 80% of the articles in this review were based in the
+US. While this does not mean that interventions are not conducted
+elsewhere, it does suggest that the current evidence base is
 predominantly shaped by a particular national context. "
 
-"despite this caveat, the low numbers of
-evaluated interventions targeting areas of diversity beyond gender and racial/ethnic minorities is
-concerning as it may signal low priorit"
+**Need to go beyond gender**:
+"the low numbers of evaluated interventions targeting areas of
+diversity beyond gender and racial/ethnic minorities is concerning as
+it may signal low priorit"
 
-"Moreover, our findings point to the popularity of
-support-based and diversity training interventions with a disproportionate focus on early career
-in comparison to, for example, policy changes or interventions that address retention or equity
-beyond the initial phases of the ‘pipeline’. As will be discussed further below, this pattern appears
-to speak to an ‘individual responsibility’ approach that prioritises changing the individual over chan-
-ging the system that disadvantages them"
+**Most actions go for individual responsibility**:
+"Moreover, our findings point to the popularity of support-based and
+diversity training interventions with a disproportionate focus on
+early career in comparison to, for example, policy changes or
+interventions that address retention or equity beyond the initial
+phases of the ‘pipeline’. As will be discussed further below, this
+pattern appears to speak to an ‘individual responsibility’ approach
+that prioritises changing the individual over changing the system
+that disadvantages them"
 
 
-"Third, the interventions we looked at overwhelmingly reflected ‘master’s tools’, that is they were
+"Third, the interventions we looked at overwhelmingly reflected ‘master’s tools’, that is **they were
 implemented or endorsed by the institutional contexts that perpetuate the inequalities that are
-addressed (Morimoto and Zajicek 2014). This is perhaps unsurprising as we were focussing on
+addressed** (Morimoto and Zajicek 2014). This is perhaps unsurprising as we were focussing on
 (largely) top-down intervention rather than grassroots action, but it does raise the question of the
 extent to which sustainable change is possible. "
 
-## Looking Deathworthy: Perceived Stereotypicality of Black Defendants Predicts Capital-Sentencing Outcomes
-https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1040&context=lsrp_papers
-(https://en.wikipedia.org/wiki/Jennifer_Eberhardt#Implicit_bias)
 
-The more somebody "looks like a black person", the likelier they are to get death penalty.
+### Can mentoring help female assistant professors in economics? An evaluation by randomized trial [@ginther2020can]
 
-## Women are underrepresented in fields where success is believed to require brilliance
-Meredith Meyer 1 * , Andrei Cimpian 2 and Sarah-Jane Leslie
-
-Field-specific ability belief picture, "brillance"-focused field lead to less women in them. (figure 2)
+CeMENT is a single-sex mentoring workshop to support women in research careers.
+"The program was designed as a randomized controlled trial. This study evaluates differences
+between the treatment and control groups in career outcomes. Results indicate that relative to
+women in the control group, **treated women are more likely to stay in academia and more likely
+to have received tenure in an institution ranked in the top 30 or 50 in economics in the world**"
 
 
-"If the practitioners of fields with gender gaps made a concerted effort to highlight the role of sustained, long-term effort in achievement, the gender gaps in these fields may correspondingly be diminished."
+Details on the workshop: "The CSWEP CeMENT workshop provides mentoring for women and nonbinary faculty in tenure-track positions at economics departments and similar institutions across North America. 
+Participants are grouped with mentors based on research interests to discuss research projects and career goals. The program also features sessions on publishing, teaching, tenure preparation, grant writing, networking, and work/life balance."
 
-## An Emphasis on Brilliance Fosters Masculinity-Contest Cultures
-Andrea C. Vial https://orcid.org/0000-0001-9367-2081 andrea.vial@nyu.edu, Melis Muradoglu https://orcid.org/0000-0002-5162-8741, […], and Andrei Cimpian https://orcid.org/0000-0002-3553-6097
-
-Women are underrepresented in fields in which success is believed to require brilliance, but the reasons for this pattern are poorly understood. We investigated perceptions of a “masculinity-contest culture,” an organizational environment of ruthless competition, as a key mechanism whereby a perceived emphasis on brilliance discourages female participation. Across three preregistered correlational and experimental studies involving adult lay participants online (N = 870) and academics from more than 30 disciplines (N = 1,347), we found a positive association between the perception that a field or an organization values brilliance and the perception that this field or organization is characterized by a masculinity-contest culture. This association was particularly strong among women. In turn, perceiving a masculinity-contest culture predicted lower interest and sense of belonging as well as stronger impostor feelings. Experimentally reducing the perception of a masculinity-contest culture eliminated gender gaps in interest and belonging in a brilliance-oriented organization, suggesting possible avenues for intervention.
+### Reducing discrimination against job seekers with and without employment gaps [@kristal2023reducing]
 
 
+"Past research shows that decision-makers **discriminate against applicants with career breaks**. Career breaks are common due to caring responsibilities, especially for working mothers, thereby leaving job seekers with employment gaps on their résumés."
+
+"**Rewriting a résumé so that previously held jobs are listed with the number of years worked** (instead of employment dates) increases callbacks from real employers compared to résumés without employment gaps by approximately 8%, and with employment gaps by 15%."
 
 
-
-## When Two Bodies Are (Not) a Problem: Gender and Relationship Status Discrimination in Academic Hiring
-Lauren A. Rivera
-
-"Drawing from gendered scripts of career and family that present men’s
-careers as taking precedence over women’s, committee members assumed that heterosexual
-women whose partners held academic or high-status jobs were not “movable,” and excluded
-such women from offers when there were viable male or single female alternatives.
-Conversely, committees infrequently discussed male applicants’ relationship status and
-saw all female partners as movable. Consequently, I show that the “two-body problem” is a
-gendered phenomenon embedded in cultural stereotypes and organizational practices that
-can disadvantage women in academic hiring."
+# Stereotypes and bias (in and beyond academia)
 
 
-## Does the Gender Composition of Scientific Committees Matter?
-    Manuel Bagues
-    Mauro Sylos-Labini
-    Natalia Zinovyeva
-	
-"We analyze how a larger presence of female evaluators affects committee decision-making using information on 100,000 applications to associate and full professorships in Italy and Spain. These applications were assessed by 8,000 randomly selected evaluators. A larger number of women in evaluation committees does not increase either the quantity or the quality of female candidates who qualify. Information from individual voting reports suggests that female evaluators are not significantly more favorable toward female candidates. At the same time, male evaluators become less favorable toward female candidates as soon as a female evaluator joins the committee. "
+### Women are underrepresented in fields where success is believed to require brilliance [@meyer2015women]
 
 
-## Gender Quotas in Hiring Committees: A Boon or a Bane for Women?
+**"brillance"-focused field lead to less women in them.** "The field-specific ability beliefs (FAB)
+hypothesis aims to provide such an account, proposing that women are likely to be
+underrepresented in fields thought to require raw intellectual talent—a sort of talent
+that women are stereotyped to possess less of than men"
 
-law of 2015,  40% gender quotas.  
+![](biblio-pics/meyer2015women-fig2.png)
 
-"Contrary to the objectives of the law, I show that the reform backfired and significantly lowered women’s probability of being hired. Because the negative effect of the reform is concentrated in committees headed by men, this result seems driven by the reaction of men to the reform.  I find little evidence that the reform affects supply-side characteristics, such as the likelihood of women applying. The results suggest that the underrepresentation of women is unlikely to be solved by simply increasing the share of women in hiring committees or interview panels."
+"If the practitioners of fields with gender gaps **made a concerted effort to highlight the role of sustained, long-term effort in achievement, the gender gaps in these fields may correspondingly be diminished.**"
+
+### An Emphasis on Brilliance Fosters Masculinity-Contest Culture [@vial2022emphasis]
 
 
-## The Development of Children’s Gender Stereotypes About STEM and Verbal Abilities: A Preregistered Meta-Analytic Review of 98 Studies
-David I. Miller email the author, Jillian E. Lauer, Courtney Tanenbaum, Lauren Burr
+"Women are underrepresented in fields in which success is believed to require brilliance, but the reasons for this pattern are poorly understood. We investigated perceptions of a “masculinity-contest culture,” an organizational environment of ruthless competition, as a key mechanism whereby a perceived emphasis on brilliance discourages female participation. Across three preregistered correlational and experimental studies involving adult lay participants online (N = 870) and academics from more than 30 disciplines (N = 1,347), we found a **positive association between the perception that a field or an organization values brilliance and the perception that this field or organization is characterized by a masculinity-contest culture**. This association was particularly strong among women. In turn, **perceiving a masculinity-contest culture predicted lower interest and sense of belonging as well as stronger impostor feelings**. Experimentally reducing the perception of a masculinity-contest culture eliminated gender gaps in interest and belonging in a brilliance-oriented organization, suggesting possible avenues for intervention."
 
-"This quantitative review of nearly 100 studies shows that, by age 6, children already think that boys are better than girls at computer science and engineering. With age, girls increasingly believe in male superiority in these technical fields—a stereotype that could potentially limit girls’ future aspirations. In contrast, children hold far more gender-neutral beliefs about math ability. Children also think that girls are much better in verbal domains like reading and writing, which could contribute to boys’ underachievement in those domains."
 
+### The Development of Children’s Gender Stereotypes About STEM and Verbal Abilities: A Preregistered Meta-Analytic Review of 98 Studies [@miller2024development]
+
+
+"This quantitative review of nearly 100 studies shows that, **by age 6, children already think that boys are better than girls at computer science and engineering**. With age, girls increasingly believe in male superiority in these technical fields—a stereotype that could potentially limit girls’ future aspirations. In contrast, children hold far more gender-neutral beliefs about math ability. Children also think that girls are much better in verbal domains like reading and writing, which could contribute to boys’ underachievement in those domains."
 
 "Several recent studies have found “brilliance” stereotypes about exceptional intelligence favoring male targets among both child and adult participants in multiple cultures (Bian et al., 2017; Jaxon et al., 2019; Okanda et al., 2022; Shu et al., 2022; Storage et al., 2020; S. Zhao et al., 2022). "
 
-(Bian et al,m2017 also shows that this impact the activites choosed)
+(Bian et al, 2017 also shows that this impact the activities choosed by children )
 
 "Young children are eager to find, remember, and construct positive information about their gender, driven by in-group gender bias as early as ages 3–5 (Dunham et al., 2016; Halim et al., 2017; Kurtz-Costes, Defreitas, et al., 2011). "
 
-## How Preschoolers Associate Power with Gender in Male-Female Interactions: A Cross-Cultural Investigation
-    Rawan Charafeddine, Imac Maria Zambrana, Benoit Triniol, Hugo Mercier, Fabrice Clément, Laurence Kaufmann, Anne Reboul, Francisco Pons & Jean-Baptiste Van der Henst 
+### How Preschoolers Associate Power with Gender in Male-Female Interactions: A Cross-Cultural Investigation [@charafeddine2020preschoolers]
+
 	
-In France, Lebannon and Norway, for 4-6 y-o children, children assign the boy role to a dominant gender neutral character. (not so much for 3 y-o)
+In France, Lebannon and Norway, for 4-6 y-o children, **children assign the boy role to a dominant gender neutral character**. (not so much for 3 y-o)
 
 
-## SHE FIGURES 2024
-
-https://projects.research-and-innovation.ec.europa.eu/en/knowledge-publications-tools-and-data/interactive-reports/she-figures-2024
-
-(chapter six for leaky pipeline)
+### Looking Deathworthy: Perceived Stereotypicality of Black Defendants Predicts Capital-Sentencing Outcomes [@eberhardt2006looking]
 
 
-## Gendered Citations at Top Economic Journals
-    Marlène Koffi
-	
-	 This paper investigates how women's works are perceived among their peers. I construct a dataset using bibliographic data from articles published in top journals in economics and granular information on the articles that cite them. I find that female-authored papers in top economic journals are (i) more likely to be cited outside economics, (ii) less likely to be cited by top-tier journals, and (iii) less likely to be cited by men. I conclude with a discussion on those results and their implications for females in economics. 
-
-## Recognition for Group Work: Gender Differences in Academia
-    Heather Sarsons
-	
- How is credit for group work allocated when individual contributions are not observed? I use data on academics' publication records to test whether demographic traits like gender influence how credit is allocated under such uncertainty. While solo-authored papers send a clear signal about ability, coauthored papers are noisy, providing no specific information about each contributor's skills. I find that men are tenured at roughly the same rate regardless of coauthoring choices. Women, however, are less likely to receive tenure the more they coauthor. The result is much less pronounced among women who coauthor with other women. 	
+The more somebody "looks like a black person" in front of a jury, the likelier they are to get death penalty.
 
 
-## CAN MENTORING HELP FEMALE ASSISTANT PROFESSORS IN ECONOMICS? AN EVALUATION BY RANDOMIZED TRIAL
-Donna K. Ginther
-Janet Currie
-Francine D. Blau
-Rachel Croson
+# Just some brain breaking illusions
 
-eMENT mentoring workshop to support women in research careers.
-The program was designed as a randomized controlled trial. This study evaluates differences
-between the treatment and control groups in career outcomes. Results indicate that relative to
-women in the control group, treated women are more likely to stay in academia and more likely
-to have received tenure in an institution ranked in the top 30 or 50 in economics in the world
+If some people need to be convinced that our brains lie to us, no matter how strong and rational we believe ourselves to be, this section should help. Of course, bias and stereotypes are more complex than the things below, yet, in many situation with incomplete information and where we are giving our best guess, how can we trust such powerful effects are not at play? (such examples can also be a fun way to engage the audience in a otherwise difficult presentation on the difficult topics discussed here)
+
+### Change Blindness
+
+Sometimes, we can't see something changing right in front of our eyes. Can you see what's changing between the two blinking pictures?
+
+![](biblio-pics/illusion-Sailboat.gif)
 
 
-RK: thing not discussed in the paper: it is a single-sex workshop...
+If you give up, you can [click here](biblio-pics/illusion-Sailboat-sol.png) for the solution
+
+### Face recognition
+
+Is their anything wrong with those two pictures of Einstein? By looking closely, you might see some small differences.
+
+![](biblio-pics/thatcher-effect.png)
+
+Now, flip your screen over and look again. Berk. (or [click here](biblio-pics/thatcher-effect-sol.jpg))
 
 
+### Bistable optical illusions
+
+A classic, where we either see the dancer going left or right.
+
+![](biblio-pics/spinning-dancer.gif)
 
 
-The CSWEP CeMENT workshop provides mentoring for women and nonbinary faculty in tenure-track positions at economics departments and similar institutions across North America. 
-Participants are grouped with mentors based on research interests to discuss research projects and career goals. The program also features sessions on publishing, teaching, tenure preparation, grant writing, networking, and work/life balance.
+Less known is the extended version, where two variants with depth inversion have been added, and looking only at the left or right dancer then changes the rotation direction of the middle one.
+
+![](biblio-pics/spinning-dancer-all.gif)
 
 
+### Checker shadow illusion
 
-## Facilitating return to the labour market with a novel CV format intervention
-Research report 
+You will see in the picture below square A and B with clearly distinct colors:
 
-displaying experience in terms of the number of years rather than dates led to a 4.8 percentage point (14.6%) increase in the positive callback rate.
+![](biblio-pics/checker-shadow-illusion.png)
 
-It made no difference to the callback rate whether the gap was explained for childcare or left unexplained. Qualitative research finds that HR professionals express a preference for an explanation in interviews, but this does not translate to recruitment behaviour.
+Yet, they are not!
 
-The difference in callback rates for CVs with and without gaps was not significant. These results do not replicate findings from previous studies in the unemployment literature and may be due to specific contextual factors of this trial. 
+![](biblio-pics/checker-shadow-illusion-sol.gif)
 
+### Hidden object
 
-## Reducing discrimination against job seekers with and without employment gaps
-Ariella S. Kristal, Leonie Nicks, Jamie L. Gloor & Oliver P. Hauser 
+Can you find the hidden object in this picture?
 
-
-"Past research shows that decision-makers discriminate against applicants with career breaks. Career breaks are common due to caring responsibilities, especially for working mothers, thereby leaving job seekers with employment gaps on their résumés."
-
-"Rewriting a résumé so that previously held jobs are listed with the number of years worked (instead of employment dates) increases callbacks from real employers compared to résumés without employment gaps by approximately 8%, and with employment gaps by 15%."
+![](biblio-pics/hidden-object.png)
 
 
-## How to improve gender equality in the workplace
-The Behavioural Insights Team report
-" To improve gender equality, we need to
-debias systems, not people. "
-
-Mixed evidence for diversity statements, diverse selection panel, diversity training, uncousious bias training.
-Promising things: CV with experiences instead of dates. Use structured interviews for recruitment and promotions,Use skill-based assessment tasks in recruitment, Set internal targets for gender representation and equality
+If you give up, [click here](biblio-pics/hidden-object-sol.png) to see the solution.

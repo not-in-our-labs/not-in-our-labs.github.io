@@ -23,7 +23,7 @@ Welcome to the home page of the "Hitchiker’s guide to the PhD". Let's start wi
 
 But:
 
- * 24% of international doctorates meet the symptoms to be classified as clinically depressed; [@1]
+ * 24% of international doctorates meet the symptoms to be classified as clinically depressed; [satinsky2021systematic]
  * 33% of 1877 french doctorates have been depressed; [@2]
  * 54% of french doctorates are exposed to stress; [@0]
  * 36,1 % out of 2100 french doctorates recognize having been victim of moral harassment or psychological violence. [@23]
@@ -66,7 +66,7 @@ The bullet points and style are mostly inspired from Dr Zoe Ayres "Toxic Mix" [p
     * barely 8% of french doctorates say they have been well warned and taught about mental health risks, and 15% says a little bit. [@0]
     * at conferences, 66,9 % of victims do not make any report. [@23]
 
-* overwork: 50% of internatioal phd student work over 50h/week [@20],
+* overwork: 50% of internatioal phd student work over 50h/week [@woolston2019phds],
   
 * Impostor syndrom: 50.6% of Ph.D. students in a belgian University believed they suffer from IP [@22]
     
@@ -84,12 +84,12 @@ The bullet points and style are mostly inspired from Dr Zoe Ayres "Toxic Mix" [p
 
 * culture of suffering: 42% of PhD students claimed that developing a mental health issue over the course of their research was considered “normal”. [@21]
   
-* difficult relationship/bad advisor: 25% of international phd students would restart with a different adivsor [@20]
+* difficult relationship/bad advisor: 25% of international phd students would restart with a different adivsor [@woolston2019phds]
 
 * bad career advertisement: 
   * 36% of french doctorates are worried about their careers [@0]
-  * 29% of international phd given usefull career adivce [@20]
-  * 50% of international phd don't feel they can talk about not pursuing academia [@20]
+  * 29% of international phd given usefull career adivce [@woolston2019phds]
+  * 50% of international phd don't feel they can talk about not pursuing academia [@woolston2019phds]
   * ~10% at most of french doctorates will get a permanent position: ~14/15k thesis are delivered per year between 2014-2019, ~400 CR position at "EPST" (research centers) [@8], and 1106 "MCF" (associate professor) positions open in 2021. [@9]
   * ~17,5% at most of french computer science doctorates will, with 933 thesis defended in 2023 [@10], 8 CR at CNRS, 9 CR at INRIA, 17 ISFP (non civil servant permanent positions) Inria, 130 MCF at section 27 -> big fluctuations every year.
   
@@ -99,13 +99,13 @@ The bullet points and style are mostly inspired from Dr Zoe Ayres "Toxic Mix" [p
 Not everybody start with the same chances to make it through:
 
 * 0,7% of UK university prof are black [@3], vs 3,3% of global population [@4]. So, UK university prof are 5 times less likely to be black.
-* 28% of UK university prof are women [@3], (vs 50%...). So, UK university prof are 1.8 times less likely to be women. The situation is similar in France, where the rate of women is 40% in PhD [@1] then 32% as assistant professor (MCF), and finally 19% as professor (PU) [@24].
+* 28% of UK university prof are women [@3], (vs 50%...). So, UK university prof are 1.8 times less likely to be women. The situation is similar in France, where the rate of women is 40% in PhD [@0] then 32% as assistant professor (MCF), and finally 19% as professor (PU) [@24].
 * US faculty are up to 25 times more likely to have a parent with a Ph.D [@5], and 20% of french doctorates have a close relative with a phd, while only 1,15% of the population has a thesis. [@0]
 * Working class in UK is 28% as likely to get a PHD vs privileged origins. [@6] So, UK working class are 3 times less likely to get a PhD.
 * 4% of UK uni staff declare disability, vs 16% of pop [@7]. So UK uni staff are 4 times less likely to declare a disability.
 * LGBT+ community have an increased risk of developing mental illness (1.5x higher than the general population) [@12], (but slight overrepresentation of LGBT representation in [@13])
 
-All those are more likely to suffer for instance from impostor syndrom [@14,@15,@16,@17] or bullying/harassment (43% of UK researchers, vs 49% for women, 62% for disabled) [@18] (37% of international researchers, vs 45% homosexual, 60% racialized) [@19]   (mostly by people in power positions, but also peers [@18])
+All those are more likely to suffer for instance from impostor syndrom [@14,@15,@16,@17] or bullying/harassment (43% of UK researchers, vs 49% for women, 62% for disabled) [@moran2020] (37% of international researchers, vs 45% homosexual, 60% racialized) [@19]   (mostly by people in power positions, but also peers [@moran2020])
 
 
 ## It's not your fault, part3 : the advisor
