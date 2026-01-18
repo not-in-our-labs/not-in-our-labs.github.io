@@ -13,8 +13,6 @@
   csl: ieee.csl
   link-citations: true
  
-  nocite: |
-    @*
 ---
 
 # The ideas behind the booklet

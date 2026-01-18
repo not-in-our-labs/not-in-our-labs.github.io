@@ -140,6 +140,11 @@
       <h1>$mainpagetitle$</h1>
 
 <!-- do not indent this line, may cause indentation problems in fenced code blocks! -->
+$if(toc)$      
+          $toc$
+$else$
+$endif$
+      
 $body$
 
       <hr>
