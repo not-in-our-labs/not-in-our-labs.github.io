@@ -52,7 +52,7 @@ The violence meter is a prevention tool to spread awareness and help recognize u
 Find the violence meter in english [here](ressources/violencemeter.pdf), and a more detailed description for each item [here](ressources/violencemeter_details.pdf).
 
 For editable versions, see  [here](ressources/violencemeter.odg) and [here](ressources/violencemeter_details.odg).
-
+v
 # Sources of the PhD booklet
 
 If you were interested in the booklet, below is the list of all the statistics and sources used to make it.

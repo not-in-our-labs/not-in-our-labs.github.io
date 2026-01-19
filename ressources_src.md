@@ -81,6 +81,131 @@ they were being bribed with a reward or special treatment to engage in sexual be
 experiencing non-consensual vaginal penetration through coercion**, while 31% had this
 experience while incapacitated, forced, or threatened with force."
 
+### Sexual harassment of women: Climate, culture, and consequences in academic sciences, engineering, and medicine [@benya2018sexual]
+
+A massive consensus study report from the US national academies of sciences, engineering and medecine.
+
+
+"the **academic** workplace (i.e., employees of academic institutions)
+has the **second highest rate of sexual harassment at 58 percent**
+(the military has the high- est rate at 69 percent) when comparing it
+with military, private sector, and the government"
+
+"Greater than **50 percent of women faculty and staff and 20–50 per-
+cent of women students encounter or experience sexually harassing
+conduct in academia.**"
+
+![](biblio-pics/benya2018sexual-fig-3.1.png)
+
+![](biblio-pics/benya2018sexual-fig-3.2.jpg)
+
+![](biblio-pics/benya2018sexual-fig-3.3.jpg)
+
+
+"the most potent predictor of sexual harassment is organizational
+climate—the degree to which those in the organization perceive that
+sexual harassment is or is not tolerated."
+
+"The environments in which the **power structure** of an organization is
+**hierarchical** with strong dependencies on those at higher levels or in
+which people are geographically isolated are more likely to **foster and
+sustain sexual harassment**." 
+
+
+It is a full chain supporting the worst. 
+
+"sexual coercion never took place without unwanted sexual attention and gender harass-
+ment."
+
+![](biblio-pics/benya2018sexual-iceberg-sexual-harassment.jpg)
+
+
+**Facts are too often ignored**: "The interview responses demonstrate
+that the behavior of male colleagues, whom higher-ranking faculty or
+administrators perceived as “superstars” in their par- ticular
+substantive area, was often minimized or ignored."
+
+
+**Big difference when asking**: "A meta-analysis of sexual harassment surveys demonstrates that the
+prevalence rate is 24 percent when women are asked whether they have
+**experienced “sexual harassment”** versus 58 percent when they are asked
+whether they **experienced harassing behaviors that meet the definition**
+of sexual harassment (and are then classifi d as such in the
+analysis)"
+
+"**Gender harassment has adverse effects**. Gender harassment that is severe
+or occurs frequently over a period of time can result in the same level of
+negative professional and psychological outcomes as isolated instances of
+sexual coercion. Gender harassment, often considered a “lesser,” more in-
+consequential form of sexual harassment, cannot be dismissed when present
+in an organization. The greater the frequency, intensity, and duration of sexually harassing
+behaviors, the more women report symptoms of **depression, stress, and
+anxiety, and generally negative effects on psychological well-being**.
+The more women are sexually harassed in an environment, the more
+they think about leaving, and **end up leaving** as a result of the sexual
+harassment."
+
+**Following the law is not enough!** "Even though laws have been in place to protect women from sexual harass-
+ment in academic settings for more than 30 years, the prevalence of sexual harass-
+ment has changed little in that time."
+
+"A **systemwide change to the culture and climate** in higher education is
+required to prevent and effectively address all three forms of sexual ha-
+rassment."
+
+
+"Anti–sexual harassment training programs should focus on **changing
+behavior, not on changing beliefs**. Programs should focus on clearly
+communicating behavioral expectations, specifying consequences for
+failing to meet these expectations, and identifying the mechanisms to be
+utilized when these expectations are not met. Training programs should
+not be based on the avoidance of legal liability."
+
+
+**bystander training**: "Academic institutions should utilize training approaches that develop
+skills among participants to interrupt and intervene when inappropriate
+behavior occurs."
+
+"**Reducing hierarchical power structures** and diffusing power more
+broadly among faculty and trainees can reduce the risk of sexual ha-
+rassment"
+
+"Systems and policies that support targets of sexual harassment and
+pro- vide options for **informal and formal reporting** can reduce the
+reluctance to report harassment as well as reduce the harm sexual
+harassment can cause the target."
+
+"**Transparency and accountability** are crucial elements of effective sexual
+harassment policies."
+
+### Gender-based violence and its consequences in European Academia [@lipinsky2022gender]
+
+Big survey of over 42 186 staff and students.
+"Gender-based violence is understood as violence directed towards a person because of
+their gender, or violence that affects persons of a specific gender disproportionately. The
+forms of gender-based violence considered by the UniSAFE survey are based on the four
+forms outlined in the Council of Europe’s Istanbul Convention (2011), that is, violence that
+can be physical, sexual, psychological, or economic."
+
+"**62%** of the survey respondents have experienced at least one form of **gender-based violence**"
+
+![](biblio-pics/lipinsky2022gender-fig1.png)
+
+Many **groups are more likely to be targetted**:
+
+![](biblio-pics/lipinsky2022gender-table1.png)
+
+"**only 13% reported it**"
+
+![](biblio-pics/lipinsky2022gender-fig2.png)
+
+For staff, their are many **work-related consequences**
+
+![](biblio-pics/lipinsky2022gender-fig3.png)
+
+Or for students, **study-related consequences**
+![](biblio-pics/lipinsky2022gender-fig4.png)
+
 
 ### Violences sexuelles dans l’enseignement supérieur en France : un focus sur l’alcool et le cannabis [@vss-alcool-mildeca]
 
@@ -138,6 +263,49 @@ engage in affirmative consent, and reduce the prevalence of sexual
 assault."
 
 *Keywords*: sexual scripts, culture, rape myths
+
+### Sciences : où sont les femmes ? [@acascience]
+
+
+![](biblio-pics/acascience-fig11.png)
+
+**Culture change**: "**L’idée impropre du bienfait de la compétition et
+de l’instabilité des postes pour promouvoir la
+production scientiﬁque des jeunes est à proscrire
+et cela bénéﬁciera aux femmes, comme aux
+hommes.**"
+
+**Bias**: "Sentiment de réussite aux évaluations selon le
+genre : Indépendamment de leurs performances,
+**le sentiment de réussite** aux évaluations est
+toujours **inférieur pour les ﬁlles** que pour les
+garçons, cet effet s’ampliﬁant entre la classe de
+6e et la classe de seconde"
+
+### Pressions, silence et résistances - Étude sur les violences sexistes et sexuelles et les discriminations en milieu doctoral en France [@obsvss]
+
+Survey of 2100 French PhD students.
+
+"Les femmes et les minorités de genre sont toujours surreprésentées parmi les
+victimes : **27,5 % des femmes rapportent des violences sexistes** dans leur laboratoire,
+contre 15,7 % des hommes. Les agressions sexuelles sont signalées par 7,1 % des femmes
+en congrès et par 1,1 % dans le cadre du laboratoire. "
+
+"les **auteurs** des violences sont **majoritairement des hommes** (83,3 %)"
+
+"Plus de la moitié des répondant·es **(50,8 %) considèrent que les femmes voient
+leur place constamment remise en cause**"
+
+"la maternité représente un obstacle plus important au doctorat que la
+paternité. Parmi les répondant·es, 80,4 % estiment qu’il est difficile
+d’être mère lors de son doctorat, contre 49,2 % pour les pères."
+
+"la majorité des répondant·es considère que les **mesures**
+de prévention des VSS sont aujourd’hui encore **insuffisantes**"
+
+"66,9 % des victimes d'agressions n’ont effectué aucun signalement et
+environ 24 % des répondant·es ayant signalé ces violences rapportent un manque de
+soutien ou des réactions inadéquates."
 
 ### Impact of the undressing consent program [@scott2024impact]
 
@@ -260,6 +428,41 @@ For UK researchers, 94 qualitative interviews and a quantitative e-survey with 4
 
 ![](biblio-pics/moran2020.png)
 
+### QUELLES POLITIQUES POUR RÉPONDRE AUX DISCRIMINATIONS À L’UNIVERSITÉ ? [@dhume2024quelles]
+
+Based on ACADISCRI study, 4 FR universities,  over 10k answers.
+
+"**14 % des étudiant·es et 11 % des
+salarié.es des universités** enquêtées déclarent avoir subi des faits de **racisme**, dont
+plus de la moitié sont estimés graves. Plus encore, les personnes racisées ― c’est-à-
+dire traitées comme membres d’un groupe racial minoritaire ― sont plus de 33 %
+à déclarer avoir vécu au cours de leurs études ou de leur carrière des traitements
+inégalitaires racistes."
+
+![](biblio-pics/dhume2024quelles-fig1.png)
+![](biblio-pics/dhume2024quelles-fig2.png)
+
+
+"L’enquête ACADISCRI montre que les **traitements discriminatoires
+validistes affectent 8,8 % des étudiant·es et 7 % du personnel des
+universités** enquêtées dans leur ensemble."
+
+**Power structures**: "L’enquête ACADISCRI montre ainsi que, parmi les
+groupes racisés, **les doctorant·es déclarent presque deux fois plus
+de discrimination que les étudiant·es**, et approximativement entre
+**trois et quatre fois plus que les diverses catégories de
+personnels**."
+
+"À l’opposé, une politique antidiscriminatoire devrait être une politique délibérément
+“inclusive et démocratique” prenant à bras le corps **le problème des inégalités,
+des rapports de pouvoir et des hiérarchisations sociales** – toutes choses qui struc-
+turent en profondeur l’enseignement supérieur et la recherche. Ce devrait être une
+politique qui **met en question les dynamiques de concurrence et de classement
+qui structurent l’espace académique** (dont la psychologie sociale montre qu’elle
+renforce les discriminations), qui s’attaque à transformer les normes qui régissent
+le fonctionnement habituellement inégalitaire des institutions, et qui reconnaît
+pleinement l’expertise des groupes minoritaires quant à la manière dont opèrent
+concrètement les rapports de domination dans l’enseignement supérieur."
 
 ## Gender discrimination in academia
 
@@ -360,6 +563,19 @@ de masse corporelle (IMC) (Carof 2021a, pp 59-60)."
 sous-représentation des personnes grosses dans les carrières
 scientifiques, bien qu’il n’y ait pas de statistiques disponibles à ce
 sujet en Belgique ou en France."
+
+## Statistics computations
+
+
+To give a general idea, we compare the very simplified chances to become a professor/faculty/uni staff, based on some other characteristic (this is a simplified illustration, where all other things are considered equal and some numbers are approximated, some details on how we compute each chance is given afterward):
+
+ - **men** are **2.6 times** more likely to become PU : 28% of UK university prof are women [@3], so `AdvMonF = 0,72/0,28 x 1 = 2.57`.
+ - **somebody without a declared disability** is **4.6 times** more likely to become a uni staff:  4% of UK uni staff have a declared disability, vs 16% of pop [@7], so `AdvNotDisonDis = 0.96/.04 x  .16/0.84`.
+ - a **white person** is **6.2 times** more likely to become a UK professor than a **black person**:  in UK, we have 18 770 White professor, 155 Black professor, 1495 Asian professor, 295 Mixed, 340 Other, and 1755 others [@3], so 0,7% of Black and 89% white for professor with known ethnicity, while 81.7% of the pop is white, and 4% is black, so   (`AdvWonB= 0.89/0.007 x 0.04/0.817 `)
+ - somebody with **a close relative with a PhD** is **at least 2.4 times** more likely to get a PhD: 20% of french doctorates have a close relative with a phd [@0], while only 1,15% of the population has a thesis, and in France we have on average 1 brother, 2 parents, and then maybe 2 uncle/aunts and 4 grand parents, so we have by counting large at most 9 close relative in a family in france, so the chance to not have a close relative with a thesis is at most `0,9885^9=0,90` and we can say that less than 10% of the population has a close relative with a thesis (`AdvPhDRelativeonNot= 0.20/0.8 x 0.95/0.10=4.75`).
+ 
+Given  two groups A and B (e.g. male and female), the chance of a member of group A to do X (e.g. become a prof) is `CA=(# of X in A)/(# of A)`, and similarly for B with `CB`. The advantage `AdvAonB` of A over B, how many times A has more chances to become X than B, is then `CA/CB`. By putting together the equations, we get `AdvAonB= ((# of X in A)/(# of X in B)) x ((# of B)/(# of A))`. As the goal is to compute this from the respective share of A/B in X (`%A-X` and `%B-X` or total population (`%A` and `%B`),  we simply multiply by the total populations as needed, and  `AdvAonB= ((# of X in A)/(# X) x (#X)/(# of X in B)) x (# of B)/(# population) x (# population)/(# of A))` and finally, `AdvAonB= (%A-X/%B-X) x  (%B/%A)`.
+
 
 
 
@@ -559,6 +775,24 @@ Participants are grouped with mentors based on research interests to discuss res
 
 "**Rewriting a résumé so that previously held jobs are listed with the number of years worked** (instead of employment dates) increases callbacks from real employers compared to résumés without employment gaps by approximately 8%, and with employment gaps by 15%."
 
+
+### Les inégalités de genre dans les carrières académiques : quels diagnostics pour quelles actions ? [@faniko2021inegalites]
+
+"Par ailleurs, **une adhésion forte à l’idéal méritocratique** – c’est-à-dire à la croyance en
+un système de promotion et de rétribution basé sur le seul mérite individuel – inter-
+vient également comme une source potentielle de **résistance** à l’encontre des mesures
+égalitaire"
+
+Three different point of view:
+ - "Un registre **individuel** : quand les institutions académiques
+s’interrogent sur ce qui « fait défaut » aux femmes", lead to mentoring, networking
+ - "Un registre **sociétal** : des institutions académiques confrontées « malgré elles »
+aux effets des régimes de genre extra-académiques", help child care, part time dispositives
+ - "Un registre **organisationnel** : les institutions académiques comme productrices
+d’inégalités", fight gender harassment, inclusivity. fight against stereotypes, quotas
+
+**Institutions care about image**: "Nous avons constaté que les responsables institutionnel·es sont surtout
+préoccupé·es par l’impact potentiel des mesures de promotion de l’égalité sur l’image de l’institution"
 
 # Stereotypes and bias (in and beyond academia)
 
