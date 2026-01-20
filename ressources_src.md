@@ -525,6 +525,21 @@ Very bad impact of a french 2019 highschool reform on share of women in computer
 
 ![](biblio-pics/king2017men-fig6.png)
 
+### Gender Inequality and Time Allocations Among Academic Faculty [@winslow2010gender]
+
+For a US survey around 1999, with 12,510 full-time faculty members: 
+"(1) women faculty members prefer to spend a greater percentage of their time on teaching, while men prefer to spend more time on research, although these preferences are themselves constrained; (2) **women faculty members spend a greater percentage of their workweek on teaching and a smaller percentage on research than men, gaps that cannot be explained by preferences** or educational and institutional attributes; and (3) **women faculty members have larger time allocation mismatches** than men—that is, their actual time allocations to both teaching and research diverge more from their preferred time allocations than those of men."
+
+### Asked More Often: Gender Differences in Faculty Workload in Research Universities and the Work Interactions That Shape Them [@o2017asked]
+
+"Similar to past studies, we found **women faculty spending more time on
+campus service, student advising, and teaching-related activities
+and men spending more time on research**. We also found that **women
+received more new work requests than men and that men and women
+received different kinds of work request.**"
+
+Precise time-diary from study on "associate and full professors in 13 universities that are members of the Big 10 Conference", around 100 people.
+
 ## Underrepresented minority (URM) discrimination
 
 
@@ -701,6 +716,14 @@ provide evidence of their commitment to diversity**."
 Since French law of 2015,  40% gender quotas in hiring committees.  
 
 "Contrary to the objectives of the law, I show that **the reform backfired and significantly lowered women’s probability of being hired**. Because **the negative effect of the reform is concentrated in committees headed by men, this result seems driven by the reaction of men to the reform**.  I find little evidence that the reform affects supply-side characteristics, such as the likelihood of women applying. The results suggest that the underrepresentation of women is unlikely to be solved by simply increasing the share of women in hiring committees or interview panels."
+
+The **reform did indeed change committees compositions**:
+
+![](biblio-pics/deschamps2024gender-fig2.png)
+
+**But the final ranking of women candidates was negatively impacted**, when using as a control group displicines which already had parity vs ones without:
+
+![](biblio-pics/deschamps2024gender-fig3.png)
 
 ### The achievement of gender parity in a large astrophysics research centre [@kewley2023achievement]
 
