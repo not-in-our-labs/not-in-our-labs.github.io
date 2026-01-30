@@ -540,6 +540,23 @@ received different kinds of work request.**"
 
 Precise time-diary from study on "associate and full professors in 13 universities that are members of the Big 10 Conference", around 100 people.
 
+### Leaky pipeline at the full professor level in France
+
+**Across all disciplines, the share of women at the full professor level is smaller than the one at assistant professor level**.  (actually, there is one exception out of 56 "CNU sections" but it only comprises 30  people)
+
+![](biblio-pics/cnu-mcf-pu-p1.png)
+![](biblio-pics/cnu-mcf-pu-p2.png)
+![](biblio-pics/cnu-mcf-pu-p3.png)
+![](biblio-pics/cnu-mcf-pu-p4.png)
+
+### Gender disparities in high-quality research revealed by Nature Index journals [@bendels2018gender]
+
+
+"Women are underrepresented at prestigious authorships compared to men (Prestige Index = -0.42). The underrepresentation accentuates in highly competitive articles attracting the highest citation rates, namely, articles with many authors and articles that were published in highest-impact journals."
+
+"**Women publish fewer articles compared to men** (39.0% female authors are responsible for 29.8% of all authorships) and are underrepresented at productivity levels of more than 2 articles per author. **Articles with female key authors are less frequently cited than articles with male key authors**. The gender-specific differences in citation rates increase the more authors contribute to an article. Distinct differences at the journal, journal category, continent and country level were revealed. The prognosis for the next decades forecast a very slow harmonization of authorships odds between the two genders.
+
+
 ## Underrepresented minority (URM) discrimination
 
 
@@ -604,6 +621,13 @@ Given  two groups A and B (e.g. male and female), the chance of a member of grou
 
 ![](biblio-pics/satinsky2021systematic-fig2.png)
 
+ "Available data suggest that the prevalence of depressive and anxiety disorders in the
+**general population ranges from 5 to 7% worldwide** . In"
+
+"disorder among **young adults** have ranged from **13%** (for young adults between the ages of 18 and 29 years in
+the 2012–2013 National Epidemiologic Survey on Alcohol and Related Conditions III 71 ) to **15%** (for young
+adults between the ages of 18 and 25 in the 2019 U.S. National Survey on Drug Use and Health 72 )."
+
 ### PhDs: the tortuous truth [@woolston2019phds]
 
 6000 phd student survey by nature.
@@ -661,13 +685,34 @@ authors from 1985 to 2008".
 "**diversity** in inputs by author ethnicity, location, and references
 **leads to greater contributions to science** as measured by impact factors and citations."
 
+### The Diversity-Innovation Paradox in Science [@hofstra2020diversity]
+
+**Diverse scholars are more innovative, but their work is taken up by others less than it should be**
+
+"Prior work finds a diversity paradox: Diversity breeds innovation, yet underrepresented groups that diversify organizations have less successful careers within them. Does the diversity paradox hold for scientists as well? We study this by utilizing a near-complete population of ∼1.2 million US doctoral recipients from 1977 to 2015 and following their careers into publishing and faculty positions."
+
+"Our analyses show that underrepresented groups produce higher rates of scientific novelty. However, their novel contributions are devalued and discounted: For example, novel contributions by gender and racial minorities are taken up by other scholars at lower rates than novel contributions by gender and racial majorities, and equally impactful contributions of gender and racial minorities are less likely to result in successful scientific careers than for majority groups. These results suggest there may be unwarranted reproduction of stratification in academic careers that discounts diversity’s role in innovation and partly explains the underrepresentation of some groups in academia."
+
 ## Improve Hiring
+
+### Productivity, prominence, and the effects of academic environment [@way2019productivity]
+
+"we apply a matched-pairs experimental design to career and productivity trajectories of 2,453 early-career faculty at all 205 PhD-granting computer science departments in the United States and Canada, who together account for over 200,000 publications and 7.4 million citations."
+
+"Our results show that the prestige of faculty’s current work environment, not their training environment, drives their future scientific productivity, while current and past locations drive prominence. Furthermore, the characteristics of a work environment are more predictive of faculty productivity and impact than mechanisms representing preferential selection or retention of more-productive scholars by more-prestigious departments. These results identify an environmental mechanism for cumulative advantage, in which an individual’s past successes are “locked in” via placement into a more prestigious environment, which directly facilitates future success. **The scientific productivity of early-career faculty is thus driven by where they work, rather than where they trained for their doctorate, indicating a limited role for doctoral prestige in predicting scientific contributions.**"
+
 
 ### Minimizing the Influence of Gender Bias on the Faculty Search Process [@fine2014minimizing]
 
 **Workshops on diversity/bias training are somewhat efficient** (study at University of Wisconsin-Madison):
  "In departments where women are underrepresented, workshop participation is associated with a significant increase in the odds of making a job offer to a woman candidate, and with a non-significant increase in the odds of hiring a woman."
 
+###  An evidence-based faculty recruitment workshop influences departmental hiring practice perceptions among university faculty [@sekaquaptewa2019evidence]
+
+Study over 1188 faculty:
+
+"**Faculty had more favorable attitudes toward equitable search strategies if they had attended a workshop** or if they were in a department where more of their colleagues had. Workshop attendance also increased intentions to act on two of three recommendations measured. Practical implications: The present studies demonstrate that an evidence-based recruitment workshop can lead faculty to adopt more favorable attitudes toward strategies that promote equitable hiring."
+"Balanced applicant pools lead to more equitable outcomes"
 
 
 ### Searching for a Diverse Faculty: What Really Works. [@goulden2019searching]
@@ -816,6 +861,45 @@ d’inégalités", fight gender harassment, inclusivity. fight against stereotyp
 
 **Institutions care about image**: "Nous avons constaté que les responsables institutionnel·es sont surtout
 préoccupé·es par l’impact potentiel des mesures de promotion de l’égalité sur l’image de l’institution"
+
+
+### Do Rubrics Live up to Their Promise? Examining How Rubrics Mitigate Bias in Faculty Hiring [@culpepper2023rubrics]
+
+Study at Berkley, for over 220 faculty searches.
+
+"This study used a multiple case study methodology to explore how five
+faculty search committees used rubrics in candidate evaluation, and
+the extent to which using a rubric seemed to perpetuate or mitigate
+bias in committee decision-making. Results showed that the use of
+**rubrics can improve searches** by clarifying criteria, encouraging
+criteria use in evaluation, calibrating the application of criteria to
+evidence, and in some cases, bringing diversity, equity, and inclu-
+sion work (DEI) into consideration. **However, search committees also
+created and implemented rubrics in ways that seem to perpetuate bias,
+undermine effectiveness**, and potentially contribute to the hiring of
+fewer minoritized candidates"
+
+
+"even with a rubric, we witnessed discrimination against international
+candidates of color, **entrenching inequities into evaluation through
+overreliance on grantsmanship**, and a lack of rubrics in later stages
+that promoted the use of biased personality judgments"
+
+Lack of impact of bias training:
+
+![](biblio-pics/culpepper2023rubrics-fig20a.png)
+
+
+### How to improve gender equality in the workplace [@biteam]
+
+" To improve gender equality, we need to debias systems, not people."
+
+Mixed evidence for diversity statements, diverse selection panel, diversity training, uncousious bias training.
+Promising things: CV with experiences instead of dates. Use structured interviews for recruitment and promotions,Use skill-based assessment tasks in recruitment, set internal targets for gender representation and equality
+
+
+
+
 
 # Stereotypes and bias (in and beyond academia)
 

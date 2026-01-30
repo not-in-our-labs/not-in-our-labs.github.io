@@ -70,29 +70,112 @@ Positive Intent:
 We are researcher?
  As most as possible, many things from this talk are sourced, and, I dare say it, for many points, very seriously so. (and if not, we can improve on it together!)
  
- Massive consensus report from the academical sciences,  Contless studies and metareviews
+ Massive consensus report from the academical sciences, countless studies and metareviews,
+ 
+ 
+ 
 
-# The state of things
+# The state of things, a first glance
+
+##	Statistics on parity in CS
+
+### Evidence 1: lack of women CS
+
+![](pics/plot-positions.png)
+
+
+### Evidence 2: the leaky pipeline in science
+
+![](biblio-pics/shefigure-stem.png)
+
+### Hypothesis 1: bias and stereotypes?
+
+Our brains are biased, no questions asked.
+
+![](biblio-pics/illusion-Sailboat.gif)
+
+There are biases very early on against women in science: from meta review of 100 studies, "by age 6, children already think that boys are better than girls at computer science and engineering"  [@miller2024development]
+
+
+Campagne de recrutement de l’Éducation Nationale (2011):
+![](biblio-pics/rw-bias-women-science-educ-nat-2011.png)
+
+Inspé Nante 2023:
+![](biblio-pics/rw-bias-women-science-educ-nat-2023.jpeg)
+
+![](biblio-pics/rw-slime-w.jpg)
+
+![](biblio-pics/rw-slime-m.jpg)
+
+
+So, it is all explained because women believe they don't believe in CS, and hiring committees are also making biases decisions?
+
+
+### Counter-evidence 1: the leaky pipeline is everywhere
+
+![](biblio-pics/shefigure-all.png)
+
+
+![](biblio-pics/cnu-mcf-pu-p1.png)
+![](biblio-pics/cnu-mcf-pu-p2.png)
+![](biblio-pics/cnu-mcf-pu-p3.png)
+![](biblio-pics/cnu-mcf-pu-p4.png)
+
+
+### Counter-evidence 2: implicit-association training impact is unclear
+
+Study at Berkley:
+![](biblio-pics/culpepper2023rubrics-fig20a.png)
+
+
+ Let's explore more facts!
 
 ## Unwell being
 
-##	Statistics on parity in CS
-##	Statistics on discriminations, harassment
-##	Example of gender/racist bias
-	
-	
-	
-# The roots of it all
-
-## Bias ?
+## Is-it just "natural" ?
 
 
+
+
+
+# The state of things, looking deeper	
 
 ## The magical hidding glasses, by Privileged Inc (TM)
 
+Is there anything striking about this image?
+
+![](biblio-pics/man_woman_holding_hands.jpg)
+
+And this one?
+
+![](biblio-pics/two_men_holding_hands.jpg)
+
+For heteorsexual, holding hands is not a question, it is taken for granted. For an homosexual couple, it feels widely different, you see the looks of some people, questioning stare, judgind stare. And we can feel threatened. It is factually a risk.
+
+-> If you are not the victim of a prejudice, we don't see it. We might not even see it is a privilege!
+
+It is harder for an homosexual in a relationship to talk at work about what they did last weekend, whitout having to do a coming out.
+
+
+
+##	Statistics on discriminations
+
+
+## Statistics on harassment
+
+##	Example of gender/racist bias
+
+	
+# The roots of it all
+
 ## Violence is a continuum (most widespread vs most severe)
 
+
+
+![](ressources/violencemeter.png)
+
 ## Power relations and competition
+
 
 
 # Act
@@ -107,15 +190,70 @@ Some tools: violentometre (phd, vss), the hitchiker's guide
 
 ## Question the toxic culture, spread a better mentality
 
+It's normal to not work outside of the office. It's normal if research is not my whole life. It's ok if I don't publish one more paper this year. It's ok if I go on long vacations. It's ok if I don't want to pursue research after my PhD. 
+
 ## Don't be complicit, be an ally!
 
 ### Answers to widespread myths:
 
- "risk of false accusations", "it's just a joke", "we are now discriminiting white men", "We can't say anything anymore", "Quotas are unfair and breaks merit based hiring"
+ "risk of false accusations" - a 10 year study at a university evaluated that between 2 to 10% of accusations were false ones [@lisak2010false], 
+ To be compared with the omipresence of agregations, maybe we should stop what has been proved to destroy people, rather than stop trying because of something that rarely happens, and is in fact detected (remember that in many cases, accusers have many forms of proofs, emails, text messages, witnesses, and that agressors often do many others)
+ 
+ "it's just a joke" - recall that all the different levels of violence support one another, and that the lower level support and enable worse things. Violent people are using your "just a joke" to justify their behaviour. Who are you making you laugh?
+ 
+ "we are now discriminiting white men" - No, we are trying to remove privileges. The French revolution was not "discriminating noble mens" damnit.
+ 
+ "We can't say anything anymore" - It is actually the converse. People that were silenced for too  long can finally speak up and try to be heard. 
+ 
+ "Quotas are unfair and breaks merit based hiring" - there is not merit currently. If I win a running race against somebody carrying a 50kg backpack, where is my merit exactly? 
  
  
 ## Everywhere, question if we can't do better
 
+### PhD advisors
+
+Follow mentoring trainings, that do take into account power imbalance. 
+
 ### PhD thesis committees
 
-### hiring 
+Men inviting women are putting pressure on women (see mails at the end of ), and that participates to the fact that whitin owmen, the repartition is horrible. 
+Idea - always include in your invitation mails for women : "If you have more than 2 or 3 thesis committees already planned this year, please decline this invitation."
+
+### Frequent climate surveys update
+
+### Include "whithin" the usual scientific seminar talks on this
+
+https://egalite-fh.irisa.fr/animation/seminaire-fifty-fifty/
+
+
+### Hiring 
+
+
+bare minimal: systematic bias training
+New ideas:
+ - agree before hands on criterion and use rubrics?
+ - have a jury member be responsible for highlightings whenever a new criterion appears or disappear when evaluating a person
+ - evaluate speech time repartition in jurys? (http://arementalkingtoomuch.com/) objective feedback that everybody can take home and reflect on.
+ - for people who will be teaching, include a question on what they would do in front of a discriminating situation among students: 'A license male student does not want to do a group project with a women student, stating that women are bad at computer science, how do you answer them?'
+ - 
+
+And maybe, some crazy ideas
+- explicit quotas, to restore some form of merit?
+- abolish prizes?
+- abolish one-to-one thesis supervising?
+- And, maybe even, push for randomized based hiring? (make a pool of candidates passing requirments to be a good researcher, then random draw)
+
+
+
+# final words
+
+Bad things are here. And things might even be worthening soon.
+
+![](biblio-pics/sif-com-fig4.png)
+
+But, we are researchers. So, let's be researchers. Let's solve this problem! Scientific work whitin 
+
+And if you feel disconfort on all this, be a researcher. Take this new data point, and question it. Is this disconfort what so many others feels all the time?
+
+https://didthisreallyhappen.net/
+
