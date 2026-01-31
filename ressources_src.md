@@ -212,7 +212,7 @@ Or for students, **study-related consequences**
 Rapport sur une enquête nationale menéee en 2023-2024, 67 000 répondants:
 
  - "Depuis leur arrivée dans l’enseignement supérieur, **24 % des femmes, 9 % des hommes et 33 % des 
-transgenre/non binaire/queer** ont subi au moins une forme d’**agression sexuelle ou de viol (ou tentative)**, souvent réitérée."5
+transgenre/non binaire/queer** ont subi au moins une forme d’**agression sexuelle ou de viol (ou tentative)**, souvent réitérée."
  - "Selon les types de violences concernés (tentative d’agression sexuelle, agression sexuelle, tentative de viol ou viol), les étudiantes sont de 2.7 à 4.5 fois plus fréquemment victimes que les étudiants."
  - "23.8 % des étudiantes déclarent avoir subi une tentative d‘agression sexuelle, 18.7 % une agression sexuelle, 3.8 % une tentative de viol et 5 % un viol" (vs 1,1% de viol pour les hommes)
  - "Plus de la moitié des violences sexistes et sexuelles (VSS) en milieu étudiant implique une
@@ -556,6 +556,16 @@ Precise time-diary from study on "associate and full professors in 13 universiti
 
 "**Women publish fewer articles compared to men** (39.0% female authors are responsible for 29.8% of all authorships) and are underrepresented at productivity levels of more than 2 articles per author. **Articles with female key authors are less frequently cited than articles with male key authors**. The gender-specific differences in citation rates increase the more authors contribute to an article. Distinct differences at the journal, journal category, continent and country level were revealed. The prognosis for the next decades forecast a very slow harmonization of authorships odds between the two genders.
 
+### Quality of evidence revealing subtle gender biases in science is in the eye of the beholder [@handley2015quality]
+
+
+"demonstrated that **men evaluate the quality of research unveiling this bias as less meritorious than do women.** "
+
+### The impact of gender on the review of the curricula vitae of job applicants and tenure candidates: A national empirical study [@steinpreis1999impact]
+
+Blind study with 238 male and female academic psychologists.
+ CV with female name judged more harshly
+
 
 ## Underrepresented minority (URM) discrimination
 
@@ -633,6 +643,17 @@ adults between the ages of 18 and 25 in the 2019 U.S. National Survey on Drug Us
 6000 phd student survey by nature.
 
 ![](biblio-pics/woolston2019phds.png)
+
+### Joy and stress triggers: a global survey on mental health among researchers [@19]
+
+survey on 13k researchers over 160 countries
+
+"65% of respondents indicated they were under tremendous pressure to publish papers, secure grants, and complete projects."
+
+"38% stated that they had felt overwhelmed by their work situation
+fairly or very often in the previous month"
+
+![](biblio-pics/cactus-feeling.png)
 
 ### La gestion du stress chez les doctorants : la surconsommation de certains produits qui pourraient nuire à leur santé [@gerard2013gestion]
 
