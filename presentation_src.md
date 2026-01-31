@@ -375,7 +375,7 @@ Institutions do not do enough: do not adress the most common form of harassment 
 Actually, scratch that, a fourth point of view:
  * ours. We do the research, we are part of this toxic culture, and we have power over it. We can be the change. (meme needed for the cheesy part)
  
-A global change: 
+A global change is needed: 
  
 "A **systemwide change to the culture and climate** in higher education is
 required to prevent and effectively address all three forms of sexual ha-
