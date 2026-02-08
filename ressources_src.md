@@ -18,7 +18,7 @@
 
 
 
-For a variety of subjects, this page very quickly summarizes and cite some reports and publications.
+For a variety of subjects, this page very quickly summarizes and cite some reports and publications, as well as some statistics computed and compiled for this overall project.
 
 # Gender and sexual harassment
 

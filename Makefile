@@ -12,7 +12,7 @@ endif
 
 TEMPLATE_HTML = template/template.html
 
-all: index.html computer_science.html ressources.html presentation.html
+all: index.html computer_science.html ressources.html presentation.html booklet.html
 
 index.html: index_src.md $(TEMPLATE_HTML)
 	$(PANDOC) \
@@ -34,6 +34,13 @@ ressources.html: ressources_src.md $(TEMPLATE_HTML)
 	  -t html -o $@ $<
 
 presentation.html: presentation_src.md $(TEMPLATE_HTML)
+	$(PANDOC) \
+	  --template $(TEMPLATE_HTML)\
+	  --table-of-contents=true\
+          --citeproc\
+	  -t html -o $@ $<
+
+booklet.html: booklet_src.md $(TEMPLATE_HTML)
 	$(PANDOC) \
 	  --template $(TEMPLATE_HTML)\
 	  --table-of-contents=true\

@@ -516,6 +516,29 @@ a:hover {
   margin-right: 10px
 }
 
+
+
+.btn-body {
+    display: inline-block;
+    margin-bottom: 1rem;
+    padding: 3px;
+    color: #531f7f;
+    background-color: rgba(255, 255, 255, 0.08);
+    color: #531f7f;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 28px;
+    border-radius: 0.3rem;
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s
+}
+
+.btn-body:hover {
+    color: #990000;
+    text-decoration: none;
+    color: #531f7f;
+    color: #531f7f;
+}
+
 @media screen and (min-width: 64em) {
     .btn {
         padding: 0.75rem 1rem
