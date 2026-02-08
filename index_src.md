@@ -54,7 +54,6 @@ For a ready to print and fold version, as well the detail of all the sources of 
 <div id="floated">
    <a href="presentation.html"><img src="presentation/title-slide.png" /></a>
    </div>
-<br/>
 ::::::
 
 To make progress on those issues, we need to be frequently exposed to the subject. As part of the *not in our labs* project, a presentation has been designed, dubbed "Discriminations, Harassment and Unwell-being in Academia - Understand, React and Prevent", which is meant to be integrated **whithin** the usual scientific team/department/lab seminars. It is indeed a scientific talk, meant to be given by researchers and for researchers, and its content is essential to enable us to in fact do good research.
