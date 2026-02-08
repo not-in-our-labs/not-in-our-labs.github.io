@@ -195,17 +195,8 @@ A men is way more likely to get a better CV:
  - Men spend more time doing research, and leaves the less rewarding work to women.  [@winslow2010gender] [@o2017asked]
  - Men self-cite 70 percent more than women [@king2017men]
  - Female authored papers are less cited  [@bendels2018gender], and notably less likely to be cited by men [@koffi2021gendered]
+ - Having children leads to a significant decline in the number of publications by women, while not affecting the number of publications by men.  [@lutter2020there]
  
- 
-::::: todo
-
-<span style="color: ##fffd34;">⚙ WIP/TODO </span>
-
-Stat on inequal career breaks due to pregnancy?
-
-:::::
-
-
  
 
 Further, even with equal CVs, the evaluation is biased: 
@@ -231,14 +222,6 @@ The french 2015 reform, where a share of at least 40% women was imposed on hirin
 
 -> So, the people with privileges have many behaviours that enforce those privilege, up to gate-keeping. 
 
-
-::::: todo
-
-<span style="color: ##fffd34;">⚙ WIP/TODO </span>
-
-Investigate wether there is any scientific base for the queen bee effect.
-
-:::::
 
 
 All this is evidence based: fun fact, you are more likely to refuse those facts if you are a man! [@handley2015quality]
@@ -563,15 +546,8 @@ Some options:
  - whenever confiding in somebody, do check that they are ok with the idea of respecting your boundaries, and not taking any action on this subject without your clear consent. You must be the one in control of your situation. (this is were some universities are doing an horrible job, sometimes even deanonymizing complaints).
 - remember, it is not your fault.
 
-This cannot be an extensive list, but the actions mentioned here should already give you contact points that will give more extensive advices. Some contact points also exists and are worth mentioning.
+This cannot be an extensive list, but the actions mentioned here should already give you contact points that will give more extensive advices. Some contact points also exists and are worth mentioning, notably  https://clasches.fr/ and https://www.sos-homophobie.org/
 
-::::: todo
-
-<span style="color: ##fffd34;">⚙ WIP/TODO </span>
-
-List of helpful associations in France. Clashes. SOS homophobie. Violentomètere du doctorat?
-
-:::::
 
 
 # Final words
@@ -586,3 +562,8 @@ And if you feel disconfort on all this, be a researcher. Take this new data poin
 
 
 
+
+# Side notes and answers to some received question during talks
+
+
+- there is a so-called queen bee effect, where in places dominated by men, women at the top of the hierarchy can be archer than men. But, this effect is mostly created by gender-stereotypical expectations and megative experiences lived through their career by those women.  [@faniko2021queen]

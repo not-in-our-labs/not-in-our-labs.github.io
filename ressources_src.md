@@ -561,10 +561,60 @@ Precise time-diary from study on "associate and full professors in 13 universiti
 
 "demonstrated that **men evaluate the quality of research unveiling this bias as less meritorious than do women.** "
 
+"these results suggest a relative reluctance among men, especially faculty men
+within STEM, to accept evidence of gender biases in STEM."
+
 ### The impact of gender on the review of the curricula vitae of job applicants and tenure candidates: A national empirical study [@steinpreis1999impact]
 
 Blind study with 238 male and female academic psychologists.
  CV with female name judged more harshly
+
+### The Queen Bee phenomenon in Academia 15 years after: Does it still exist, and if so, why? [@faniko2021queen]
+
+
+"Advanced career female academics
+are more likely than their male counterparts to underestimate the career commitment of
+women at the beginning of their academic careers."
+
+"Together, these studies show that the response pattern seen to characterize the
+‘Queen Bee’ is not to be attributed to ‘the way some women are’ or how they typically
+interact with each other at work. Instead, research reveals that factors in the
+organizational context and more specifically **the exposure to gender-stereotypical
+expectations, negative career experiences, and lack of organizational support contribute
+to the maintenance of the QB phenomenon**"
+
+
+### Navigating the leaky pipeline: Do stereotypes about parents predict career outcomes in academia? [@stefanova2022navigating]
+
+Mock hiring experiment in academia.
+"The findings showed that parents were significantly less likely to be endorsed to be hired than non-parents, regardless of gender."
+
+
+
+### Is there a motherhood penalty in academia? The gendered effect of children on academic publications in German sociology [@lutter2020there]
+
+
+For sociologists in German academia:
+"Having children leads to a significant decline in the number of publications by women, while not affecting the number of publications by men."
+
+### Do babies matter (Part II) [@mason2004babies]
+
+
+
+Refering to their past study:
+"We found that men with "early" babies—those with a child entering their household within five years of their
+receiving the PhD—are 38 percent more likely than their women counterparts to achieve tenure" 
+
+Big survey of PhD students accross US:
+"One consistent finding across all nine campuses was that women were more than twice as
+likely as men to indicate that they had fewer children than they had wanted—a full 38
+percent of women said so compared with 18 percent of men (see figure 5)"
+
+"Women between thirty and fifty with children clock over a hundred hours each
+week on caregiving, housework, and professional responsibilities, compared with a little
+more than eighty-five for men with children"
+
+![](biblio-pics/mason-fig7.png)
 
 
 ## Underrepresented minority (URM) discrimination

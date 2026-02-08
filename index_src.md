@@ -49,20 +49,29 @@ For a ready to print and fold version, as well the detail of all the sources of 
 # A slideshow presentation, for researchers by researchers
 
 
-To make progress on those issues, we need to be frequently exposed to the subject. As part of the not in our labs project, a presentation has been designed, dubbed "Discriminations, Harassment and Unwell-being in Academia - Understand, React and Prevent", which is meant to be integrated **whithin** the usual scientific team/department/lab seminars. It is indeed a scientific talk, meant to be given by researchers and for researchers, and its content is essential to enable us to in fact do good research.
+::::: read-it
 
-If you are managing such a scientific seminar, you can contact me ([charlie.jacomme@inria.fr](mailto:charlie.jacomme@inria.fr)) and we can try to schedule such a talk (and if you are not managing such a seminar, you can still plant the seed and give my contact). It's abstract, slides, and highly detailed outline are [available here](presentation.html).
+<div id="floated">
+   <a href="presentation.html"><img src="presentation/title-slide.png" /></a>
+   </div>
+<br/>
+::::::
+
+To make progress on those issues, we need to be frequently exposed to the subject. As part of the *not in our labs* project, a presentation has been designed, dubbed "Discriminations, Harassment and Unwell-being in Academia - Understand, React and Prevent", which is meant to be integrated **whithin** the usual scientific team/department/lab seminars. It is indeed a scientific talk, meant to be given by researchers and for researchers, and its content is essential to enable us to in fact do good research.
 
 
 
 ::::: read-it
 
-<center>
-  <br/>
-   <a href="presentation.html"><img src="presentation/title-slide.png" /></a>
-   </center>
+<br/>
 
 ::::::
+
+If you are managing such a scientific seminar, you can contact me ([charlie.jacomme@inria.fr](mailto:charlie.jacomme@inria.fr)) and we can try to schedule such a talk (and if you are not managing such a seminar, you can still plant the seed and give my contact). It's abstract, slides, and highly detailed outline are [available here](presentation.html).
+
+
+
+
 
 
 
@@ -81,7 +90,22 @@ All the ressources and references used either for the slideshow presentation or 
 
 ## Some home-made statics on gender gap in French Computer Science
 
-Some statistics dedicated to the field of computer science were produced and [detailed here](computer_science.html), to be able to give a clear connection point for the booklet and the presentation. It is a side additional project, which also highlights and objectivises some of the issues talked everywhere here.
+Some statistics dedicated to the field of computer science were produced and [detailed here](computer_science.html), to be able to give a clear connection point for the booklet and the presentation. It is a side additional project, which also highlights some of the issues talked everywhere here.
+
+
+## External ressources
+
+Associations:
+
+- [observatoire-vss.com](https://observatoire-vss.com/)
+- [clasches.fr](https://clasches.fr/)
+- [sos-homophobie.org](https://www.sos-homophobie.org/)
+
+Ressources:
+
+- [Le violentomètre du doctorat](https://sites.google.com/view/collectifecume/home/nos-productions/le-violentom%C3%A8tre-du-doctorat)
+- [Guide de l'autodéfense universitaire](https://universiteouverte.org/autodefense-universitaire/)
+- [Fiches d'infos techniques sur le doctorat](https://guide-doctorat.fr/fiches)
 
 
 ## Homepage logo
