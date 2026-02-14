@@ -1,6 +1,8 @@
 ---
-  title: The Hitchiker's guide to the PhD
-  pagetitle: Index
+  title: Not in our labs
+  pagetitle: Ressources
+
+  print_toc: true
 
   next_page:
   next_page_url:
@@ -17,13 +19,9 @@
 :::
 
 
-
 For a variety of subjects, this page very quickly summarizes and cite some reports and publications, as well as some statistics computed and compiled for this overall project.
 
 # Gender and sexual harassment
-
-
-
 
 ###  Ireland  COSHARE North-South survey report [@coshare]
 
@@ -1068,3 +1066,31 @@ Can you find the hidden object in this picture?
 
 
 If you give up, [click here](biblio-pics/hidden-object-sol.png) to see the solution.
+
+
+# Bibliography in Progress
+
+::::: todo
+
+<span style="color: ##fffd34;">⚙ WIP/TODO </span>
+
+More detailled reading on the notions of power/competition specifically in academia.
+
+ - Get full version of [@friedensen2024power]
+ - Read [@bettencourt2021re] [@hamann2025academic] [@martin1998tied]
+
+:::::
+
+
+
+::::: todo
+
+<span style="color: ##fffd34;">⚙ WIP/TODO </span>
+
+Do biblio on how much of the "success" and "merit" is inherited from advisor
+
+ - [@wang2021influence] [@hilmer2009fishes] [@blackburn1981cloning] [@long1985effects] [@lindahl2021importance]
+
+:::::
+
+# References

@@ -1,5 +1,5 @@
 ---
-  title: The Hitchiker's guide to the PhD
+  title: Not in our labs
   pagetitle: Index
   mainpagetitle:
   navigation: false
@@ -76,38 +76,41 @@ If you are managing such a scientific seminar, you can contact me ([charlie.jaco
 
 # Additional ressources
 
-## Violence Meter
+### Violence Meter
 
 The violence meter is a prevention tool to spread awareness and help recognize unhealthy and dangerous behaviours in relationships. After an in-depth study, Giorgia Magni made a version dedicated to academia. The original ressoure and its description is in French [here](https://www.unige.ch/fapse/grire/outils-de-formation/violentometre).
 
 Find the violence meter in english [here](ressources/violencemeter.pdf), and a more detailed description for each item [here](ressources/violencemeter_details.pdf).  For editable versions, see  [here](ressources/violencemeter.odg) and [here](ressources/violencemeter_details.odg).
 
-## A library of ressources
+### A library of ressources
 
-All the ressources and references used either for the slideshow presentation or the hitchiker's guide booklet are listed [here](ressources.html), with small comments and main results extracted.
+**Paper and reports:** all the ressources and references used either for the slideshow presentation or the hitchiker's guide booklet are listed [here](ressources.html), with small comments and main results extracted.
+
+**Videos:**  a compiled list of video presentations on the topic, with a few highlighted recommendations, is [available here](videos.html).
 
 
-## Some home-made statics on gender gap in French Computer Science
+
+### Some home-made statics on gender gap in French Computer Science
 
 Some statistics dedicated to the field of computer science were produced and [detailed here](computer_science.html), to be able to give a clear connection point for the booklet and the presentation. It is a side additional project, which also highlights some of the issues talked everywhere here.
 
 
-## External ressources
+### External ressources
 
-Associations:
+A few french associations on the subject:
 
 - [observatoire-vss.com](https://observatoire-vss.com/)
 - [clasches.fr](https://clasches.fr/)
 - [sos-homophobie.org](https://www.sos-homophobie.org/)
 
-Ressources:
+And a few final ressources:
 
 - [Le violentomètre du doctorat](https://sites.google.com/view/collectifecume/home/nos-productions/le-violentom%C3%A8tre-du-doctorat)
 - [Guide de l'autodéfense universitaire](https://universiteouverte.org/autodefense-universitaire/)
 - [Fiches d'infos techniques sur le doctorat](https://guide-doctorat.fr/fiches)
 
 
-## Homepage logo
+#### Homepage logo
 
 Logo is a modified public domain picture from Linnaea Mallette.
   

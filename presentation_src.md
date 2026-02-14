@@ -1,6 +1,8 @@
 ---
-  title: The Hitchiker's guide to the PhD
-  pagetitle: Index
+  title: Not in our labs
+  pagetitle: Presentation
+
+  print_toc: true
 
   next_page:
   next_page_url:
@@ -34,7 +36,7 @@ Many studies, internationally or nationally, demonstrate that the academic world
 
 # Introduction
 
-This talk will talk about about Discriminations, Harassment and Unwell-being in academia. So, we will talk about bad and sad things in this talk. But, it stems from a positive intent, we will be trying to understand everything in order to be able to fight it, and we will notably be looking for what is the link between those three things. (hence, the talk might seem to go in many directions, until it should all make sense.)
+This talk will talk about Discriminations, Harassment and Unwell-being in academia. So, we will talk about bad and sad things in this talk. But, it stems from a positive intent, we will be trying to understand everything in order to be able to fight it, and we will notably be looking for what is the link between those three things. (hence, the talk might seem to go in many directions, until it should all make sense.)
 
 So, yes, we will talk about bad things. But, we can get through it. Indeed, we are researchers, so faced with a problem, we should try to tackle it together, make some hypothesis and attempts, be wrong, try again, be wrong and wrong until we are right a little bit more, and iterate until we make progress. And all I will be talking about are problems that make us do bad science. So, collectively, let's be researchers. Let's be problem solver. Let's find out how to do good science!
 
@@ -567,3 +569,6 @@ And if you feel disconfort on all this, be a researcher. Take this new data poin
 
 
 - there is a so-called queen bee effect, where in places dominated by men, women at the top of the hierarchy can be archer than men. But, this effect is mostly created by gender-stereotypical expectations and megative experiences lived through their career by those women.  [@faniko2021queen]
+
+
+# References

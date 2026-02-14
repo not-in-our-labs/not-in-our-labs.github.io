@@ -1,6 +1,6 @@
 ---
-  title: The Hitchiker's guide to the PhD
-  pagetitle: Booklet
+  title: Not in our labs
+  pagetitle: The Hitchiker's guide to the PhD
   mainpagetitle:
   navigation: false
 
@@ -113,3 +113,5 @@ This is where we are missing the most "scientific" foundations. An issue is mayb
 ## What to do?
 
 Most personal part, no particular references. Could be nice though.
+
+# References
