@@ -12,41 +12,16 @@ endif
 
 TEMPLATE_HTML = template/template.html
 
-all: index.html computer_science.html ressources.html presentation.html booklet.html
+FILES =  $(wildcard *_src.md)
+TARGET_HTML_FILES := $(patsubst %_src.md,%.html,$(FILES))
 
-index.html: index_src.md $(TEMPLATE_HTML)
+all:  $(TARGET_HTML_FILES) 
+
+%.html: %_src.md $(TEMPLATE_HTML)
 	$(PANDOC) \
 	  --template $(TEMPLATE_HTML)\
           --citeproc\
 	  -t html -o $@ $<
-
-computer_science.html: computer_science_src.md $(TEMPLATE_HTML)
-	$(PANDOC) \
-	  --template $(TEMPLATE_HTML)\
-          --citeproc\
-	  -t html -o $@ $<
-
-ressources.html: ressources_src.md $(TEMPLATE_HTML)
-	$(PANDOC) \
-	  --template $(TEMPLATE_HTML)\
-	  --table-of-contents=true\
-          --citeproc\
-	  -t html -o $@ $<
-
-presentation.html: presentation_src.md $(TEMPLATE_HTML)
-	$(PANDOC) \
-	  --template $(TEMPLATE_HTML)\
-	  --table-of-contents=true\
-          --citeproc\
-	  -t html -o $@ $<
-
-booklet.html: booklet_src.md $(TEMPLATE_HTML)
-	$(PANDOC) \
-	  --template $(TEMPLATE_HTML)\
-	  --table-of-contents=true\
-          --citeproc\
-	  -t html -o $@ $<
-
 
 clean:
 	-rm -f *.html
