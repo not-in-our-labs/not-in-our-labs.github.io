@@ -1014,6 +1014,30 @@ In France, Lebannon and Norway, for 4-6 y-o children, **children assign the boy 
 The more somebody "looks like a black person" in front of a jury, the likelier they are to get death penalty.
 
 
+# Against the star culture in math/CS
+
+Stigler law (contributions missatribution) and Matthew effet (cumulative advantage)  -> (both themselves missatributions...)
+
+ Missattributed research: https://en.wikipedia.org/wiki/List_of_examples_of_Stigler%27s_law
+ 
+   - "**Bellman–Ford** algorithm for computing the shortest-length path, proposed by Alfonso Shimbel, who presented the algorithm in 1954, but named after Richard Bellman and Lester Ford Jr., who published equivalent forms in 1956 and 1958."
+   - "**Cantor set**, discovered in 1874 by Henry John Stephen Smith and introduced by German mathematician Georg Cantor 1883."
+   - "**Chernoff bound**, a bound on the tail distribution of sums of independent random variables, named for Herman Chernoff but due to Herman Rubin.[20]"
+   - "**Currying**, a technique for transforming an n-arity function to a chain of functions. Named after Haskell Curry who had attributed its earlier discovery to Moses Schönfinkel, though the principle can be traced back to work in 1893 by Gottlob Frege."
+   - "**De Morgan's laws** of logic, transformation rules of propositional logic. Named after 19th-century British mathematician Augustus De Morgan, but already known to medieval philosophers such as Jean Buridan."
+   - "The **Floyd–Warshall** algorithm for finding shortest paths in a weighted graph is named after Robert Floyd and Stephen Warshall who independently published papers about it in 1962. However, Bernard Roy had previously published an equivalent algorithm in 1959."
+   - "**Gauss's theorem**: first proved by Ostrogradsky in 1831."
+   - "**Gaussian elimination**: was already in well-known textbooks such as Thomas Simpson's when Gauss in 1809 remarked that he used "common elimination.""
+   - "**Gröbner basis**: the theory was developed by Bruno Buchberger, who named them after his advisor, Wolfgang Gröbner."
+   - "**Moore's law**" -> was a comon notion at the time
+   - "**Russell's paradox** is a paradox in set theory that Bertrand Russell discovered and published in 1901. However, Ernst Zermelo had independently discovered the paradox in 1899."
+   - "**The Von Neumann architecture** of computer hardware is misattributed to John von Neumann because he wrote a preliminary report called "First Draft of a Report on the EDVAC" that did not include the names of the inventors: John Mauchly and J. Presper Eckert"
+   
+Missconducts:
+
+ - Cantor stole proofs from Dedekin and published them as is own. (https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/)
+
+
 # Just some brain breaking illusions
 
 If some people need to be convinced that our brains lie to us, no matter how strong and rational we believe ourselves to be, this section should help. Of course, bias and stereotypes are more complex than the things below, yet, in many situation with incomplete information and where we are giving our best guess, how can we trust such powerful effects are not at play? (such examples can also be a fun way to engage the audience in a otherwise difficult presentation on the difficult topics discussed here)
