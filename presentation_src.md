@@ -23,7 +23,7 @@ Discriminations, Harassment and Unwell-being in Academia - Understand, React and
 # Preliminaries
 
 
-This page summarizes a 1 hour 30 minutes presentation (including question and interruptions) that can be given at research seminar, by researchers and for researchers. This page follows the overall structure of the presentation, and gives all references as clear link. 
+This page summarizes a 1 hour presentation that can be given at research seminar, by researchers and for researchers. This page follows the overall structure of the presentation, and gives all references as clear links. 
 
 The pdf version of the slides can be found [here](presentation/presentation.pdf) and the libroffice source [here](presentation/presentation.odp)
 
@@ -59,7 +59,10 @@ We are researcher? So, let's go together on an investigation!
 ![](pics/plot-positions.png)
 
 
-Focusing on the yellow line, we see that for the last 10 years, there is a stable ratio of ~24% of women in permanent positions in the computer sciecne frenc academia.
+Focusing on the yellow line, we see that for the last 10 years, there is a stable ratio of ~24% of women in permanent positions in the computer sciecne french academia.
+
+![](pics/plot-positions-pu-mcf.png)
+
 
 ### Evidence 2: the leaky pipeline in science
 
@@ -172,16 +175,15 @@ The issue is way bigger than it may seem for a lot of people.
 
 Let us go back to the lack of women, but now, having the notion of power in mind, let's read the inequal repartition as **inequalities w.r.t. access to a higher status**.
 
+If we simply consider single variables analysis, we already see huge inequalities:
+
  - **men** are **2.6 times** more likely to become a professor
  - **somebody without a declared disability** is **4.6 times** more likely to become a uni staff
  - a **white person** is **6.2 times** more likely to become a UK professor than a **black person**
  - somebody with **a close relative with a PhD** is **at least 2.4 times** more likely to get a PhD
  
 
-And more! there are also weight related discrimination, religion related discrimnation, or LGBTQIA+ discrimination.
-
-
-
+And more! there are also weight related discrimination, religion related discrimnation, or LGBTQIA+ discrimination. 
 In France, many people feel they have been discriminated against in academia, based on a wide range of criterions. And it should be noted that those criterions **accumulate**.
 
 ![](biblio-pics/dhume2024quelles-fig1.png)
@@ -318,7 +320,20 @@ Strong power and domination relations
 	  which in turn =causes=> competition, everybody depressed, overworked and overstressed by the competition
 
 ```
+
+Power imbalances:
+  - knowledge (epistimic domination)
+  - employer/employee
+  - full time researcher vs teaching positions
+  - network and relations
   
+  
+A very fine grained competitive landscape:
+ - when submiting a paper
+ - when applying for a grant
+ - when applying for a position/promotion
+ - when getting "recognition" (an award, invited talks)
+
 ## Is all this an issue?
 
 Ok, first of, morally, of course. Right?
@@ -377,9 +392,9 @@ We need to focus on **broad cultural change**  [@johnson2015potential]
 
 It is some times easier to change behaviours than beliefs. So, while I would dream to not have to say such basic things, here is a small don't do  it list.
 
-The basics:
+The basic general rules:
 
- - As a general rule, don’t touch or be very close to people at the workplace 
+ - don’t touch or be very close to people at the workplace 
  - Don’t comment on the physical appearance of people
  - Avoid one on one meetings with subordinates outside of the worplace
  - Don’t try to date your students
@@ -404,22 +419,25 @@ Relieve the pressure :
  - It's ok if I go on long vacations. 
  - It's ok if I don't want to pursue research after my PhD. 
  - It's ok if I am not doing a permanent crunch.
- - It’s ok to not be « brillant »
+ - It’s ok to not be « brillant »,  and even more, it is important...
 
-In fact, supporting this "brillant" mentally, increases the biases against women: they are discriminated against for position of power, of excellency.
+## Step 3: Don't be "brillant"
 
-![](biblio-pics/meyer2015women-fig2.png)
+A few key facts on "brillant" persons and superstars: 
 
-"**a strong adhesion to the meritocratuc ideal forte à l’idéal méritocratique** – that is the belief in a hiring system based on individual merit online - also arises as a potential source of resistance against egalitarian measures".  [@faniko2021inegalites]
-
-
-## Step 3: Face the truth
-
-
-**Facts are too often ignored**: "The interview responses demonstrate
-that the behavior of male colleagues, whom higher-ranking faculty or
+ - Merit is far from being the main factor in academic success (see all the previous statistics) 
+ - Merit is often missattributed
+ - a strong belief in merit is linked with resisting egalitarian measures [@faniko2021inegalites]
+ - "The behavior of male colleagues, whom higher-ranking faculty or
 administrators perceived as “superstars” in their particular
 substantive area, was often minimized or ignored." [@benya2018sexual]
+ - Women are discriminated against for position of power, of excellency, of "brillance".  [@meyer2025increasing]
+  
+ ![](biblio-pics/meyer2015women-fig2.png)
+
+
+Missattributions: Bellman-Ford, Cantor-set, Chernoff Bund, Currying, De Morgan's law, Floyd-Warshall, Gauss'theorem, Guassian elimination, Grobner basis, Moore's law, Russel paradox, Von Neuman Architechure.
+
 
 ## Step 4: recognize what is going on
 

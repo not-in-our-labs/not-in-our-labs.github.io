@@ -1037,6 +1037,9 @@ Missconducts:
 
  - Cantor stole proofs from Dedekin and published them as is own. (https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/)
 
+# Legal responsibility of advisors (fully in french)
+
+
 
 # Just some brain breaking illusions
 
