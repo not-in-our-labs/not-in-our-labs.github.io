@@ -614,6 +614,19 @@ more than eighty-five for men with children"
 
 ![](biblio-pics/mason-fig7.png)
 
+### The importance of collaboration and supervisor behaviour for gender differences in doctoral student performance and early career development [@lindahl2021importance]
+
+
+Study on 494 Swedish pdh students in  science, technology, or medicine from 2006 to 2010.
+
+"These results suggest that male doctoral students are more collaborative, have more external
+collaborators, and co-author more papers with their supervisors than female doctoral students,
+and that these factors, to a large extent, explain the observed productivity differences between
+males and females during doctoral studies."
+
+
+
+
 
 ## Underrepresented minority (URM) discrimination
 
@@ -1018,7 +1031,8 @@ The more somebody "looks like a black person" in front of a jury, the likelier t
 
 Stigler law (contributions missatribution) and Matthew effet (cumulative advantage)  -> (both themselves missatributions...)
 
- Missattributed research: https://en.wikipedia.org/wiki/List_of_examples_of_Stigler%27s_law
+### Missattributed research
+(https://en.wikipedia.org/wiki/List_of_examples_of_Stigler%27s_law)
  
    - "**Bellman–Ford** algorithm for computing the shortest-length path, proposed by Alfonso Shimbel, who presented the algorithm in 1954, but named after Richard Bellman and Lester Ford Jr., who published equivalent forms in 1956 and 1958."
    - "**Cantor set**, discovered in 1874 by Henry John Stephen Smith and introduced by German mathematician Georg Cantor 1883."
@@ -1036,6 +1050,16 @@ Stigler law (contributions missatribution) and Matthew effet (cumulative advanta
 Missconducts:
 
  - Cantor stole proofs from Dedekin and published them as is own. (https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/)
+
+
+### FISHES, PONDS, AND PRODUCTIVITY: STUDENT-ADVISOR MATCHING AND EARLY CAREER PUBLISHING SUCCESS FOR ECONOMICS PHD [@hilmer2009fishes]
+
+1982 economics phd students in the early 1990s.
+
+"students attending lower ranked programs but working with superstar faculty publish both more total and
+top 36 articles and more quality-adjusted pages than students attending top-
+ranked programs but working with less prominent advisors."
+
 
 # Legal responsibility of advisors (fully in french)
 
@@ -1114,15 +1138,5 @@ More detailled reading on the notions of power/competition specifically in acade
 :::::
 
 
-
-::::: todo
-
-<span style="color: ##fffd34;">⚙ WIP/TODO </span>
-
-Do biblio on how much of the "success" and "merit" is inherited from advisor
-
- - [@wang2021influence] [@hilmer2009fishes] [@blackburn1981cloning] [@long1985effects] [@lindahl2021importance]
-
-:::::
 
 # References
