@@ -49,6 +49,26 @@ Highlights:
 ![](pics/plot-positions.png)
 
 
+
+ <script type="text/javascript" src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
+ <script type="text/javascript" src="make_graph.js"></script>
+
+ <script type="text/javascript" src="cs_stats.js"></script>
+
+ <script type="text/javascript"> 
+ 
+  window.onload = function () {
+  
+    var chart = new CanvasJS.Chart("chartContainer", CS_chart);	
+    chart.render();
+  }
+  </script>
+
+ 
+ <div id="chartContainer" style="height: 700px; width: 100%;">
+  </div>    
+
+
 ## Bias around PhD
 
 Highlights for people in section 27: 

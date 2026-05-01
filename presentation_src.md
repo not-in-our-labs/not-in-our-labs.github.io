@@ -443,7 +443,7 @@ Missattributions: Bellman-Ford, Cantor-set, Chernoff Bund, Currying, De Morgan's
 
 Look at problematic situations and see them as problematic. 
 
-![](ressources/violencemeter.png)
+![](resources/violencemeter.png)
 
 https://didthisreallyhappen.net/
 
@@ -497,7 +497,7 @@ sexual harassment is or is not tolerated." [@benya2018sexual]
 
 ### PhD advisors
 
-Follow mentoring trainings, that do take into account power imbalance.  Favor co-supervision rather than one-to-one.  Give ressources to your students, on possible careers, local listeners. Be early on feedback and don't impose any crunch.  Feel responsible (wich you legally are) for the wellbeing of your students. Emancipate students, don't exploit them.
+Follow mentoring trainings, that do take into account power imbalance.  Favor co-supervision rather than one-to-one.  Give resources to your students, on possible careers, local listeners. Be early on feedback and don't impose any crunch.  Feel responsible (wich you legally are) for the wellbeing of your students. Emancipate students, don't exploit them.
 
 And when doing the committee thesis invitation, care about inequalities and pressure.
 
@@ -562,7 +562,7 @@ Some options:
  - union are historically the first one who stood out against all this, they can be good contact points.
  - it is a good idea to document what is happening to you, even small things, mails, messages, your emotional state after a meeting witnessed by other people. Most harassment cases have in fact many evidence to build on. This will give you options later on.
  - head of labs/department must offer you options (remind them that they are legally responsible for your health at the workplace): even if your harasser is not officially condemned, the harasser can isolated from the research activity of the lab, the seminars, the team meals, etc etc. If the lab is not willing to help reduce the ease with which the harasser can act, you should at least be offered a new workplace where you would be safe, potentially helped in finding new advisors if the issue come from them.
- - labs and universities have dedicated ressources, not all efficient of course. But, a formal reporting mechanism can be the only way to get a final decision against an harasser.
+ - labs and universities have dedicated resources, not all efficient of course. But, a formal reporting mechanism can be the only way to get a final decision against an harasser.
  - whenever confiding in somebody, do check that they are ok with the idea of respecting your boundaries, and not taking any action on this subject without your clear consent. You must be the one in control of your situation. (this is were some universities are doing an horrible job, sometimes even deanonymizing complaints).
 - remember, it is not your fault.
 

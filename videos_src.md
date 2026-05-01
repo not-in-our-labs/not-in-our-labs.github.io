@@ -221,7 +221,7 @@ A research like presentation.
     LGBTQ working definitions, glossary
 	gender pronous (what is your preferred/chosen pronouns?)
 	gender identity <> gender expression <> sexual orientation
-	campus ressources -> also need to think about what goes on in the curriculum
+	campus resources -> also need to think about what goes on in the curriculum
 	intersectionality: Have you considerer how the intersections of your identities havec impacted your lived experiences?
 	 man/white/able people are not aware of their maleness, whiteness,
 	 
@@ -241,7 +241,7 @@ some dont's "I didn't mean anything byt it", don't use insults linked to LGBT, d
 Self questions: 
 
  - "What is your strategy for improving the experience of LGBTQIA+ students at your uni?"
- - "what campus ressources do you provide LGBTQIA studients that help retain them and creae a sens of belonging at the institution"
+ - "what campus resources do you provide LGBTQIA studients that help retain them and creae a sens of belonging at the institution"
 				  
 ## Beyond Bias Fair and Inclusive Hiring Strategies for University Search Committees
 
@@ -841,7 +841,7 @@ sans trop se mouiller, écrire à clashes pour demander du matos de com' (affich
 inviter clashes à faire des formations (facturé selon les lieux), adapté aux public cible
 
 
-reco ressources : docu "The Hunting Ground" (terrain de chasse), université américaine
+reco resources : docu "The Hunting Ground" (terrain de chasse), université américaine
 
 
 ##  Prof Celeste Kidd speaks on How Sexual Harassment Creates Inequality in Academia 
@@ -1081,7 +1081,7 @@ on peut commencer sur les trucs pratiques et simples:
 * ne pas avoir accès à des toilette non géré crée des pbs pour les minorités.
 * Pareille sur l'utilisation des pronoms, c'est bien de déclarer ses pronoms, pour rompre le cisgenre centrisme
 
-Q: pour se former, quelles ressources ?
+Q: pour se former, quelles resources ?
 le mieux c'les organismes qui interviennent dans les milieux concernées. Victimes sont notamment plus à l'aise pour leur parler (pas besoin d'expliquer milles trucs)
 
 q: faut-il plus intégrer dans les pres existantes les aspects LGBTQ+, ou crée des formations ciblés ?
@@ -1654,6 +1654,42 @@ BIT: On CVs, having unexplained gap reduces chances.
 
 Anonymous CVs prevent discrimination in early stages.	(but mostly works in high discrimination context, may simply postpone discrimnation to later stages, + disadventageous if recruiter cannot correct things like load from having children, or use migration status to explain and ignore weak language skills)
 	
+## Ingénieures et Techniciennes : la face cachée des inégalités, Mathieu Arbogast, CNRS
+
+
+**Link:** https://www.canal-u.tv/chaines/inria/ingenieures-et-techniciennes-la-face-cachee-des-inegalites-mathieu-arbogast-cnrs
+
+**Length:** 1 hour
+
+**Author:** Mathieu Arbogast (sur les enquêtes de Célia Bouchet)
+
+**Notes**
+
+
+A few stats to start
+
+ - Among IT IE AI IR
+ - 39% of M are IR vers only 19% of W.
+ - 76% of technicians T are women
+ - 18% of research enginers are women
+
+
+Study of Referens III, typical hiring job definitions at the french national scale, are implicitly biased:
+-> less skills are cited in the job area with a majority of women
+-> they also tend to not have explicit skill levels like "expert"
+
+
+At the hiring, women are often over qualified for a post. Also, often at the AI level, many have the reponsabilities and skills of IE (without the salary...)
+
+Women declare more activite outside of their expected work (then harder to get promotions), like representions, supervision, training of newcomers. Everything getting worse with less people.
+
+
+
+M-W salary gap is higher for ITs compared to researchers, worse for pensions
+Salary gap exists even at equal levels.
+
+
+Do not put things like "having published in the best conferences";, do not put too many skills, diminish women's candidatures.
 
 ::::: todo
 

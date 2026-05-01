@@ -20,7 +20,7 @@ all:  $(TARGET_HTML_FILES)
 %.html: %_src.md $(TEMPLATE_HTML)
 	$(PANDOC) \
 	  --template $(TEMPLATE_HTML)\
-          --table-of-contents=true\
+          --table-of-contents\
           --citeproc\
 	  -t html -o $@ $<
 

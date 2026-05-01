@@ -18,7 +18,7 @@
 
 Welcome to the home of the **not in our labs** project, trying to fight back against harassment, discrimination and unwell-being in academia. 
 
-The scientific consensus is that we need a global cultural change in academia to address those issues: such a thing can only come from us, the people in academia. This page offers several ressources on how we can do better.
+The scientific consensus is that we need a global cultural change in academia to address those issues: such a thing can only come from us, the people in academia. This page offers several resources on how we can do better.
 
 
 # A Hitchiker’s guide to the PhD
@@ -74,17 +74,17 @@ If you are managing such a scientific seminar, you can contact me ([charlie.jaco
 
 
 
-# Additional ressources
+# Additional resources
 
 ### Violence Meter
 
 The violence meter is a prevention tool to spread awareness and help recognize unhealthy and dangerous behaviours in relationships. After an in-depth study, Giorgia Magni made a version dedicated to academia. The original ressoure and its description is in French [here](https://www.unige.ch/fapse/grire/outils-de-formation/violentometre).
 
-Find the violence meter in english [here](ressources/violencemeter.pdf), and a more detailed description for each item [here](ressources/violencemeter_details.pdf).  For editable versions, see  [here](ressources/violencemeter.odg) and [here](ressources/violencemeter_details.odg).
+Find the violence meter in english [here](resources/violencemeter.pdf), and a more detailed description for each item [here](resources/violencemeter_details.pdf).  For editable versions, see  [here](resources/violencemeter.odg) and [here](resources/violencemeter_details.odg).
 
-### A library of ressources
+### A library of resources
 
-**Paper and reports:** all the ressources and references used either for the slideshow presentation or the hitchiker's guide booklet are listed [here](ressources.html), with small comments and main results extracted.
+**Paper and reports:** all the resources and references used either for the slideshow presentation or the hitchiker's guide booklet are listed [here](resources.html), with small comments and main results extracted.
 
 **Videos:**  a compiled list of video presentations on the topic, with a few highlighted recommendations, is [available here](videos.html).
 
@@ -95,7 +95,7 @@ Find the violence meter in english [here](ressources/violencemeter.pdf), and a m
 Some statistics dedicated to the field of computer science were produced and [detailed here](computer_science.html), to be able to give a clear connection point for the booklet and the presentation. It is a side additional project, which also highlights some of the issues talked everywhere here.
 
 
-### External ressources
+### External resources
 
 A few french associations on the subject:
 
@@ -103,7 +103,7 @@ A few french associations on the subject:
 - [clasches.fr](https://clasches.fr/)
 - [sos-homophobie.org](https://www.sos-homophobie.org/)
 
-And a few final ressources:
+And a few final resources:
 
 - [Le violentomètre du doctorat](https://sites.google.com/view/collectifecume/home/nos-productions/le-violentom%C3%A8tre-du-doctorat)
 - [Guide de l'autodéfense universitaire](https://universiteouverte.org/autodefense-universitaire/)

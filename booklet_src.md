@@ -95,7 +95,7 @@ Not everybody start with the same chances to make it through:
  - a **white person** is **6.2 times** more likely to become a UK professor than a **black person**
  - somebody with **a close relative with a PhD** is **at least 2.4 times** more likely to get a PhD
 
-(see the [ressources](ressources.html) page for computation details)
+(see the [resources](resources.html) page for computation details)
  
 Further:
  * Working class in UK is 28% as likely to get a PHD vs privileged origins. [@6] So, UK working class are 3 times less likely to get a PhD.
