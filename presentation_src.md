@@ -25,7 +25,7 @@ Discriminations, Harassment and Unwell-being in Academia - Understand, React and
 
 This page summarizes a 1 hour presentation that can be given at research seminar, by researchers and for researchers. This page follows the overall structure of the presentation, and gives all references as clear links. 
 
-The pdf version of the slides can be found [here](presentation/presentation.pdf) and the libroffice source [here](presentation/presentation.odp)
+The pdf version of the slides can be found [here](presentation/presentation.pdf) and the libroffice source [here](presentation/presentation.odp) (it requires the [ubuntu condensed](https://www.1001freefonts.com/fr/ubuntu-condensed.font) font).
 
 
 ## Abstract
@@ -125,6 +125,7 @@ So, there should be more things that explain this phenomenon, it is not linked t
 From a 6000 phd student survey by nature. [@woolston2019phds]
 ![](biblio-pics/woolston2019phds.png)
 
+Trivia: a 60 to 70 hours per week appears to be the average back in 1870, (see [our world in data article](https://ourworldindata.org/working-more-than-ever).
 
 ### Evidence 5: everybody is overwhelmed
 
