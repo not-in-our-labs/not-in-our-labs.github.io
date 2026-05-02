@@ -5,11 +5,20 @@ function sum_data (obj1,obj2,name) {
     var data={}
     for (const property in data1 ) {
 	data[property] = [data1[property][0]+data2[property][0],data1[property][1]+data2[property][1]]
-    }	
+    }
+
+   var visible = true;	 
+   if ("visible" in obj1)
+     {	 
+	 visible = obj1["visible"];
+     }{};
+
+    
     return {
 	data: data,
 	last:obj1["last"],
 	text:name,
+	visible:visible,
     };
 
 }    
@@ -28,11 +37,11 @@ function make_data (obj) {
     vals = data[property];
     percent = Math.floor((vals[0] / (vals[0]+vals[1])) * 10000)/100;   
 	if (obj["last"]==property) {
-	    list.push({x:new Date(property), y:percent, indexLabel:"࣭     #"+vals[0].toString()} );
+	    list.push({x:parseInt(property), y:percent, indexLabel:"࣭     #"+vals[0].toString()} );
 	}
 	else
 	{
-	    list.push({x:new Date(property), y:percent} );	
+	    list.push({x:parseInt(property), y:percent} );	
 	}
   };
 
@@ -44,8 +53,7 @@ function make_data (obj) {
      
     
    const d=  {        
-       type: "line",
-       xValueType: "dateTime",       
+       type: "line",       
        lineThickness:4,
        indexLabelFontSize: 12,       
        showInLegend: true, 		

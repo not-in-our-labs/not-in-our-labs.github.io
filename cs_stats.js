@@ -41,24 +41,30 @@ const  DR_CNRS_F_H =
 
 const  CR_INRIA_F_H = 
   {data:
-   {2023: [80,363]},
+   {2023: [80,363],
+    2024: [83,361], 
+   },
   prefix_data:
-   [{x:new Date("2021"), y:22},
-    {x:new Date("2022"), y:19}
+   [{x:2020, y:23.3},
+    {x:2021, y:22},
+    {x:2022, y:19}
    ],     
-   last:"2023",
+   last:"2024",
    visible:false,
    text: "CR INRIA (and equivalent)"};
 
 
 const  DR_INRIA_F_H = 
   {data:
-    {2023: [66,250]},
+   {2023: [66,250],
+    2024: [65,266],
+   },
    prefix_data:
-   [{x:new Date("2021"), y:17},
-    {x:new Date("2022"), y:17}
+   [{x:2020, y:16.9},
+       {x:2021, y:17},
+    {x:2022, y:17}
    ],   
-   last:"2023",
+   last:"2024",
    visible:false,   
    text: "DR INRIA (and equivalent)"};
 
@@ -93,8 +99,10 @@ const CS_chart =
       text: "Proportion of women in Computer Science French academics (section 27)"  
       },
         axisX:{      
-            valueFormatString: "YYYY" ,
-            labelAngle: -50
+	    interval: 1,
+            labelAngle: -50,
+            valueFormatString: "####", //try properties here
+	    
         },
         axisY:{      
             title: "Percentage of women"
@@ -124,12 +132,13 @@ const CS_chart =
 	  make_data(DR_CNRS_F_H),
 	  make_data(CR_INRIA_F_H),
 	  make_data(DR_INRIA_F_H),
+	  make_data(sum_data(CR_INRIA_F_H,DR_INRIA_F_H,"CR and DR INRIA")),	  
 	  { type: "line", showInLegend: true, 		
 	    legendText: "(click on their legend to hide/unhide a serie)",
 	    visible: false,
 	    legendMarkerColor: "#FFF",
 	    color: "#FFF",	    	    
-		dataPoints: [{ x: new Date(2023, 0, 1), y: null }]
+		dataPoints: [{ x: 2022, y: null }]
 	      }
       ]
     }
