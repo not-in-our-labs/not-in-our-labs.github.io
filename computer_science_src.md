@@ -41,13 +41,9 @@ To discuss and reflect on those issues, it is crucial to consider also the quest
 
 Highlights:
 
- * When considering the total population (MCF + PU), **we are stuck** and not making any significant progress.
+ * When considering the total population (MCF + PU), **we are stuck** and not making any significant progress. In addition, we are below the candidate pool (based on qualified).
  * It is **worse for more competitive positions** (CR, DR, PU), where we are way below the proportion of potential candidates.
  * There is only a slight improvement on the CNRS side, while CR INRIA is worsening.
-
-
-![](pics/plot-positions.png)
-
 
 
  <script type="text/javascript" src="https://cdn.canvasjs.com/canvasjs.min.js"></script>

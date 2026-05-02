@@ -56,10 +56,8 @@ We are researcher? So, let's go together on an investigation!
 
 ### Evidence 1: a stable lack of women in french CS
 
-![](pics/plot-positions.png)
 
-
-Focusing on the yellow line, we see that for the last 10 years, there is a stable ratio of ~24% of women in permanent positions in the computer sciecne french academia.
+We see that for the last 10 years, there is a stable ratio of ~24% of women in permanent positions in the computer science french academia.
 
 ![](pics/plot-positions-pu-mcf.png)
 
